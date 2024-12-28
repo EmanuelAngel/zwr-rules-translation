@@ -10,7 +10,7 @@ v 0.1
 - REQUERIMIENTOS DE GRABACIÓN
 - RONDA MÍNIMA REQUERIDA
 - REGLAS DE SPEEDRUN
-- CRASHEOS Y DESCONECCIONES
+- DESCANSOS Y DESCONECCIONES
 - PERSONAL
 - TRANSMISIÓN DESTACADA DE ZWR
 - VANGUARD
@@ -138,7 +138,7 @@ _Método de cronometraje_
 
 **---**
 
-## CRASHEOS Y DESCONECCIONES
+## DESCANSOS Y DESCONECCIONES
 
 - El jugador debe reconectarse en la misma ronda en la que se desconectaron antes de que la siguiente ronda comience, o el intento será nulo después de que cambie la ronda (también aplica si el jugador abandona la partida). Ej: Un jugador se desconecta en ronda 20 y la partida avanza a ronda 21, la ronda posteada será la 21.
 - Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁN PERMITIDOS** cambiar sus Chicles de su anterior equipamiento (BO3).
