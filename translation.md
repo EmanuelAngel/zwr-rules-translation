@@ -30,7 +30,7 @@ v 0.1
 ## ENVÍOS
 
 - Para prevenir equivocaciones y rechazos, los jugadores siempre deben leer las reglas cuidadosamente.
-- Asegurate que tu envío cumpla todos los requerimientos que están listados bajo las reglas de cada desafío en especifico.
+- Asegúrate que tu envío cumpla todos los requerimientos que están listados bajo las reglas de cada desafío en específico.
 - A partir del 12 de mayo de 2024, para todos los envíos flawless?, deberás proveer un indicativo donde tu intento flawless termina en el mensaje de tu envío como una marca de tiempo.
 - Siempre revisa dos veces si has seleccionado el juego correcto, mapa, categoría y desafío.
 - Cada envío debe contener el gameplay completo, sino este será denegado.
@@ -46,11 +46,11 @@ v 0.1
 - FOV (Campo de visión) en PC en juegos más viejos que no tengan un control del FOV (para juegos nuevos puedes cambiar el FOV desde los ajustes de este) está **PERMITIDO**.
 - Cambiar el FOV en juegos que no tengan un control del FOV (para juegos nuevos puedes cambiar el FOV desde los ajustes de este) **NO ESTÁ PERMITIDO** en **CONSOLA**. **Jugadores de consola deben jugar con el FOV por defecto**.
 - Sólo se requiere que 1 jugador esté jugando activamente durante intentos cooperativos; de todas maneras, si un jugador está AFK (no está jugando) por duración total del intento, será removido del récord y reemplazado como cuenta AFK.
-- Duplicar armas especiales **NO ESTÁ PERMITIDO** ha no ser que se indique lo contrario.
-- Glitches, bugs, o hazañas? con la excepción de algunos especificos los cuales fueron votados por la comunidad como permitidos, **NO ESTÁN PERMITIDOS**.
-- Skip (salto) de rondas de cualquier tipo **NO ESTÁ PERMITIDO** ha no ser que se indique lo contrario.
+- Duplicar armas especiales **NO ESTÁ PERMITIDO** a no ser que se indique lo contrario.
+- Glitches, bugs, o hazañas? con la excepción de algunos específicos los cuales fueron votados por la comunidad como permitidos, **NO ESTÁN PERMITIDOS**.
+- Skip (salto) de rondas de cualquier tipo **NO ESTÁ PERMITIDO** a no ser que se indique lo contrario.
 - Abusar de armas cuerpo a cuerpo insta-kill (por ejemplo bloquear una tecla cuerpo a cuerpo e irse AFK por horas) **NO ESTÁ PERMITIDO**.
-- Farmear récords jugando con otros jugadores para obtener un empate con tu propio récord **NO ESTÁ PERMITIDO**. Un empate con un jugador diferente es acceptable, pero más que eso resultará en la eliminación de intentos aprobados.
+- Farmear récords jugando con otros jugadores para obtener un empate con tu propio récord **NO ESTÁ PERMITIDO**. Un empate con un jugador diferente es aceptable, pero más que eso resultará en la eliminación de intentos aprobados.
 - Juego cooperativo en pantalla dividida **ESTÁ PERMITIDO**.
 - Crear un perfil alternativo dedicado solo para récords mundiales para garantizar una proporción perfecta **NO ESTÁ PERMITIDO**. Se anima a los jugadores a subir todos sus récords a un solo perfil.
 
@@ -61,13 +61,13 @@ v 0.1
 _TRAMPOSO CONVICTO_
 
 - Cualquier jugador atrapado haciendo trampa recibirá una línea a través de su nombre y el título **TRAMPOSO CONVICTO**.
-- Ser un **TRAMPOSO CONVICTO** simplemente significa que ya no serás capaz de enviar récords en solo, o cualquier récord en cooperativo otra vez.
+- Ser un **TRAMPOSO CONVICTO** simplemente significa que ya no serás capaz de enviar récords en solitario, o cualquier récord en cooperativo otra vez.
 - Todos los tramposos serán baneados permanentemente de subir nuevos récords.
-- Todos los anteriormente Tramposos Convictos ya no se les permitirá subir intentos en solo.
+- Todos los anteriormente Tramposos Convictos ya no se les permitirá subir intentos en solitario.
 
-_Condenas inmediatas_
+_CONDENAS INMEDIATAS_
 
-- Si un jugador es atrapado injectando un intento para ganar una ventaja injusta con el uso de una modificación, se les dará inmediatamente el título **TRAMPOSO CONVICTO**.
+- Si un jugador es atrapado inyectando un intento para ganar una ventaja injusta con el uso de una modificación, se les dará inmediatamente el título **TRAMPOSO CONVICTO**.
 - Si un jugador es atrapado dividiendo o alterando la velocidad de un speedrun, se les dará inmediatamente el título **TRAMPOSO CONVICTO**.
 - Si un jugador es atrapado usando trampas evidentes como Modo Dios o cualquier otra modificación obvia con una clara intención maliciosa, se les dará inmediatamente el título **TRAMPOSO CONVICTO**.
 
@@ -78,9 +78,9 @@ _Condenas inmediatas_
 - La calidad mínima para todos los récords debe ser de 360p. Grabación a mano está bien si la calidad del gameplay es adecuada.
 - Todo el gameplay es requerido para cada uno de los récords.
 - Nosotros recomendamos que los speedrunners provean un contador. Si no, el tiempo final será tomado desde el tiempo del video.
-- Si envías un intento con varios videos, el final del intento necesita ser enviado como link principal. Todos los otros links deberán ser enviados in la sección de "Links addicionales".
+- Si envías un intento con varios videos, el final del intento necesita ser enviado como link principal. Todos los otros links deberán ser enviados en la sección de "Links adicionales".
 
-_Plataformas_
+PLATAFORMAS
 
 - Twitch - Todas las grabaciones deben estar **HIGHLIGHTED?**.
 - YouTube - Todas las grabaciones deben estar como **PÚBLICAS** o **SIN LISTAR**.
@@ -129,7 +129,7 @@ _Texturas personalizadas_
 - **Si quieres estar seguro, solo no cambies nada**.
 - Los siguientes cambios de texturas **ESTÁN PERMITIDOS** (Texturas/ camuflajes de armas, vistas de armas/ guantes, y elementos del HUD (íconos de bebidas, etc)).
 - Los siguientes cambios de texturas **NO ESTÁN PERMITIDOS** (Modelos de zombis, texturas de mapas, modelos de jugadores, partes de construíbles, y efectos como explosiones, power-ups, etc).
-- **Se consciente que algunas texturas cambiarán más que una sola cosa. Es tu responsabilidad de asegurarte que un cambio de textura no resulta en también usar un cambio de textura baneado**.
+- **Sé consciente que algunas texturas cambiarán más que una sola cosa. Es tu responsabilidad asegurarte que un cambio de textura no resulta en también usar un cambio de textura baneado**.
 - Archivos de audio personalizados **NO ESTÁN PERMITIDOS**.
 
 _Método de cronometraje_
@@ -143,7 +143,7 @@ _Método de cronometraje_
 - El jugador debe reconectarse en la misma ronda en la que se desconectaron antes de que la siguiente ronda comience, o el intento será nulo después de que cambie la ronda (también aplica si el jugador abandona la partida). Ej: Un jugador se desconecta en ronda 20 y la partida avanza a ronda 21, la ronda posteada será la 21.
 - Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁN PERMITIDOS** cambiar sus Chicles de su anterior equipamiento (BO3).
 - Cualquier forma de sleeper? **ESTÁ PERMITIDA** para partidas cooperativas.
-  Ejemplos son el uso de glitches sit-in?, teniendo un jugador desconectandose y reconectandose, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
+  Ejemplos son el uso de glitches sit-in?, teniendo un jugador desconectando y reconectando, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
 
 **---**
 
@@ -153,14 +153,14 @@ _Método de cronometraje_
 - Si un miembro del personal niega un envío, siempre hay una razón para ello. Si el jugador no recibe un correo con la razón, él siempre puede contactar con la administración.
 - Miembros del personal ocasionalmente pueden cometer errores. Si detectas un error, puedes reportarlo usando el botón "Report a problem", puedes encontrarlo al fondo de la página.
 - El proceso de verificación puede tomar algo de tiempo. El estado de tu envío puede ser verificado [**AQUÍ**](https://zwr.gg/track/)
-- Puedes contactar al miembro del personal y a la administraciñon a través del [Discord](https://discord.gg/zwr) de ZWR o mediante el soporte por correo.
+- Puedes contactar al miembro del personal y a la administración a través del [Discord](https://discord.gg/zwr) de ZWR o mediante el soporte por correo.
 
 **---**
 
 ## TRANSMISIÓN DESTACADA DE ZWR
 
 - Streams? son destacados en la página principal.
-- Un miembro del personal eligirá aleatoriamente un stream? para destacar cada vez (De Twitch o YouTube).
+- Un miembro del personal elegirá aleatoriamente un stream? para destacar cada vez (De Twitch o YouTube).
 - Cualquier jugador podrá pedir ser destacado enviando un mensaje al personal o administrador.
 
 **---**
