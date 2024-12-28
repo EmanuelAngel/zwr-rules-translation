@@ -122,7 +122,7 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
     - En los intentos Cooperativos, por lo menos el host debe subir la sesión del gameplay.
   - El video de la prueba de los reinicios no debe ser borrado incluso después de que el intento haya sido aprobado.
   - Ten en mente que el personal posee el derecho de pedir por más material de grabación si es necesario.
-  - A partir del 04/26/2024. Envíos a través del modo teatro ya no serán permitidas ser usadas como grabación principal de un envío. Se anima a los jugadores a transmitir en vivo o grabar en crudo el video de su intento. A pesar de esto, es recomendable para todos los jugadores tener su grabación cruda para envíos cooperativos, el modo teatro es aceptable a menos que tú seas el host. El host aún será el responsable de tener pruebas de la sala anterior antes del intento, de mostrar elixires y reinicios.
+  - A partir del 04/26/2024. Envíos a través del modo teatro ya no serán permitidos ser usados como grabación principal de un envío. Se anima a los jugadores a transmitir en vivo o grabar en crudo el video de su intento. A pesar de esto, es recomendable para todos los jugadores tener su grabación cruda para envíos cooperativos, el modo teatro es aceptable a menos que tú seas el host. El host aún será el responsable de tener pruebas de la sala anterior antes del intento, de mostrar elixires y reinicios.
 
 _Texturas personalizadas_
 
@@ -141,7 +141,7 @@ _Método de cronometraje_
 ## DESCANSOS Y DESCONECCIONES
 
 - El jugador debe reconectarse en la misma ronda en la que se desconectó antes de que la siguiente ronda comience, o el intento será nulo después de que cambie la ronda (también aplica si el jugador abandona la partida). Ejemplo: Un jugador se desconecta en ronda 20 y la partida avanza a ronda 21, la ronda posteada será la 21.
-- Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁN PERMITIDOS** cambiar sus Chicles de su anterior equipamiento (BO3).
+- Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁ PERMITIDO** cambiar sus Chicles de su anterior equipamiento (BO3).
 - Cualquier forma de sleeper? **ESTÁ PERMITIDA** para partidas cooperativas.
   Ejemplos son el uso de glitches sit-in?, teniendo un jugador desconectando y reconectando, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
 
