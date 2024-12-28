@@ -28,8 +28,8 @@
 ## ENVÍOS
 
 - Para prevenir equivocaciones y rechazos, los jugadores siempre deben leer las reglas cuidadosamente.
-- Asegurate que tu envío cumpla\* todos los requerimientos que están listados bajo las reglas de cada desafío en especifico.
-- A partir del 12 de mayo de 2024, para todos los envíos flawless\*, deberás proveer un indicativo donde tu intento flawless termina en el mensaje de tu envío como una marca de tiempo.
+- Asegurate que tu envío cumpla todos los requerimientos que están listados bajo las reglas de cada desafío en especifico.
+- A partir del 12 de mayo de 2024, para todos los envíos flawless?, deberás proveer un indicativo donde tu intento flawless termina en el mensaje de tu envío como una marca de tiempo.
 - Siempre revisa dos veces si has seleccionado el juego correcto, mapa, categoría y desafío.
 - Cada envío debe contener el gameplay completo, sino este será denegado.
 - Después de que un intento es aprobado, se espera que la grabación se mantenga accesible para que el récord se mantenga en las tablas de clasificación. Si la grabación se termina perdiendo o se privatiza por cualquier razón, ese récord ya no será considerado válido y será removido de las tablas de clasificación.
@@ -142,5 +142,23 @@ _Método de cronometraje_
 - Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁN PERMITIDOS** cambiar sus Chicles de su anterior equipamiento (BO3).
 - Cualquier forma de sleeper? **ESTÁ PERMITIDA** para partidas cooperativas.
   Ejemplos son el uso de glitches sit-in?, teniendo un jugador desconectandose y reconectandose, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
+
+**---**
+
+## PERSONAL
+
+- Miembros del personal son gente que realiza su trabajo voluntariamente para la comunidad de zombis. Su responsabilidad es verificar envíos, ellos determinan si las partidas siguen las reglas y cumplen los requerimientos.
+- Si un miembro del personal niega un envío, siempre hay una razón para ello. Si el jugador no recibe un correo con la razón, él siempre puede contactar con la administración.
+- Miembros del personal ocasionalmente pueden cometer errores. Si detectas un error, puedes reportarlo usando el botón "Report a problem", puedes encontrarlo al fondo de la página.
+- El proceso de verificación puede tomar algo de tiempo. El estado de tu envío puede ser verificado [**AQUÍ**](https://zwr.gg/track/)
+- Puedes contactar al miembro del personal y a la administraciñon a través del [Discord](https://discord.gg/zwr) de ZWR o mediante el soporte por correo.
+
+**---**
+
+## TRANSMISIÓN DESTACADA DE ZWR
+
+- Streams? son destacados en la página principal.
+- Un miembro del personal eligirá aleatoriamente un stream? para destacar cada vez (De Twitch o YouTube).
+- Cualquier jugador podrá pedir ser destacado enviando un mensaje al personal o administrador.
 
 **---**
