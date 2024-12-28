@@ -1,0 +1,529 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css"
+    />
+    <style>
+      .ColorToggler {
+        margin: 0 0.3rem;
+      }
+    </style>
+    <script>
+      (function () {
+        const savedTheme = localStorage.getItem("theme");
+
+        if (savedTheme) {
+          document.documentElement.setAttribute("data-theme", savedTheme);
+        } else {
+          const prefersDark = window.matchMedia(
+            "(prefers-color-scheme: dark)"
+          ).matches;
+          const initialTheme = prefersDark ? "dark" : "light";
+
+          document.documentElement.setAttribute("data-theme", initialTheme);
+
+          localStorage.setItem("theme", initialTheme);
+        }
+      })();
+    </script>
+
+    <title>Reglas traducidas</title>
+  </head>
+  <body class="container" style="position: relative">
+    <header
+      style="
+        position: fixed;
+        top: 0;
+        right: 20px;
+        display: flex;
+        justify-content: flex-end;
+        z-index: 999;
+      "
+    >
+      <nav>
+        <ul>
+          <li>
+            <span>Tema</span>
+            <input
+              class="ColorToggler"
+              type="checkbox"
+              role="switch"
+              name="theme"
+              value="dark"
+            />
+
+            <script>
+              const themeToggle = document.querySelector(".ColorToggler");
+
+              const savedTheme = localStorage.getItem("theme");
+              if (savedTheme) {
+                themeToggle.checked = savedTheme === "dark";
+              }
+
+              themeToggle.addEventListener("change", () => {
+                const newTheme = themeToggle.checked ? "dark" : "light";
+                document.documentElement.setAttribute("data-theme", newTheme);
+                localStorage.setItem("theme", newTheme);
+              });
+            </script>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <p>v 0.1</p>
+    <a href="https://zwr.gg/rules">Sitio oficial</a>
+    <h1 id="reglas">Reglas</h1>
+    <h2 id="tabla-de-contenidos">Tabla de Contenidos</h2>
+    <ul>
+      <li><a href="#envíos">ENVÍOS</a></li>
+      <li><a href="#reglas-generales">REGLAS GENERALES</a></li>
+      <li><a href="#trampas">TRAMPAS</a></li>
+      <li>
+        <a href="#requerimientos-de-grabación">REQUERIMIENTOS DE GRABACIÓN</a>
+      </li>
+      <li><a href="#ronda-mínima-requerida">RONDA MÍNIMA REQUERIDA</a></li>
+      <li><a href="#reglas-de-speedrun">REGLAS DE SPEEDRUN</a></li>
+      <li>
+        <a href="#descansos-y-desconecciones">DESCANSOS Y DESCONECCIONES</a>
+      </li>
+      <li><a href="#personal">PERSONAL</a></li>
+      <li>
+        <a href="#transmisión-en-vivo-destacada-de-zwr"
+          >TRANSMISIÓN DESTACADA DE ZWR</a
+        >
+      </li>
+      <li>VANGUARD</li>
+      <li>BLACK OPS 4</li>
+      <li>WORLD WAR II</li>
+      <li>INFINITE WARFARE</li>
+      <li>BLACK OPS 3</li>
+      <li>PARCHES VERIFICADOS</li>
+      <li>ADVANCED WARFARE</li>
+      <li>BLACK OPS 2</li>
+      <li>MODERN WARFARE 3</li>
+      <li>BLACK OPS</li>
+      <li>WORLD AT WAR</li>
+      <li>MAPAS CUSTOM/ TABLAS DE CLASIFICACIÓN DE LA COMUNIDAD</li>
+      <li>MOD ULTIMATE EXPERIENCE</li>
+    </ul>
+    <h2 id="envíos">ENVÍOS</h2>
+    <ul>
+      <li>
+        Para prevenir equivocaciones y rechazos, los jugadores siempre deben
+        leer las reglas cuidadosamente.
+      </li>
+      <li>
+        Asegúrate que tu envío cumpla todos los requerimientos que están
+        listados bajo las reglas de cada desafío en específico.
+      </li>
+      <li>
+        A partir del 12 de mayo de 2024, para todos los envíos flawless (sin
+        caídas), deberás proveer un indicativo donde termina tu intento flawless
+        en el mensaje de tu envío como una marca de tiempo.
+      </li>
+      <li>
+        Siempre revisa dos veces si has seleccionado correctamente el juego,
+        mapa, categoría y desafío.
+      </li>
+      <li>
+        Cada envío debe contener el gameplay completo, sino este será denegado.
+      </li>
+      <li>
+        Después de que un intento es aprobado, se espera que la grabación se
+        mantenga accesible para que el récord se mantenga en las tablas de
+        clasificación. Si la grabación se termina perdiendo o se privatiza por
+        la razón que sea, ese récord ya no será considerado válido y será
+        removido de las tablas de clasificación.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="reglas-generales">REGLAS GENERALES</h2>
+    <p>
+      <strong
+        >ASEGÚRATE DE LEER LAS REGLAS DE CADA DESAFÍO EN ESPECÍFICO EN SU
+        RESPECTIVA PÁGINA DE TABLA DE CLASIFICACIÓN!</strong
+      >
+    </p>
+    <ul>
+      <li>
+        Jugadores que se atrapen haciendo trampa estarán sujetos al título
+        <strong>TRAMPOSO CONVICTO</strong>. Revisa más abajo para información en
+        detalle.
+      </li>
+      <li>
+        FOV (Campo de visión) en PC en juegos más viejos que no tengan un
+        control del FOV (para juegos nuevos puedes cambiar el FOV desde los
+        ajustes de este) está <strong>PERMITIDO</strong>.
+      </li>
+      <li>
+        Cambiar el FOV en juegos que no tengan un control del FOV (para juegos
+        nuevos puedes cambiar el FOV desde los ajustes de este)
+        <strong>NO ESTÁ PERMITIDO</strong> en <strong>CONSOLA</strong>.
+        <strong>Jugadores de consola deben jugar con el FOV por defecto</strong
+        >.
+      </li>
+      <li>
+        Sólo se requiere que 1 jugador esté jugando activamente durante intentos
+        cooperativos; de todas maneras, si un jugador está AFK (no está jugando)
+        por la duración total del intento, será removido del récord y
+        reemplazado como cuenta AFK.
+      </li>
+      <li>
+        Duplicar armas especiales <strong>NO ESTÁ PERMITIDO</strong> a no ser
+        que se indique lo contrario.
+      </li>
+      <li>
+        Glitches, bugs y exploits <strong>NO ESTAN PERMITIDOS</strong> a
+        excepción de aquellos avalados por la comunidad a través de votación.
+      </li>
+      <li>
+        Skip (salto) de rondas de cualquier tipo
+        <strong>NO ESTÁ PERMITIDO</strong> a no ser que se indique lo contrario.
+      </li>
+      <li>
+        Abusar de armas cuerpo a cuerpo insta-kill (por ejemplo bloquear una
+        tecla cuerpo a cuerpo e irse AFK por horas)
+        <strong>NO ESTÁ PERMITIDO</strong>.
+      </li>
+      <li>
+        Farmear récords jugando con otros jugadores para obtener un empate con
+        tu propio récord <strong>NO ESTÁ PERMITIDO</strong>. Un empate con un
+        jugador diferente es aceptable, pero cualquier cosa más que eso
+        resultará en la eliminación de intentos aprobados.
+      </li>
+      <li>
+        Juego cooperativo en pantalla dividida <strong>ESTÁ PERMITIDO</strong>.
+      </li>
+      <li>
+        Crear un perfil alternativo dedicado solo para récords mundiales para
+        garantizar una proporción perfecta <strong>NO ESTÁ PERMITIDO</strong>.
+        Se anima a los jugadores a subir todos sus récords a un solo perfil.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="trampas">TRAMPAS</h2>
+    <p><em>TRAMPOSO CONVICTO</em></p>
+    <ul>
+      <li>
+        Cualquier jugador atrapado haciendo trampa recibirá una línea a través
+        de su nombre y el título <strong>TRAMPOSO CONVICTO</strong>.
+      </li>
+      <li>
+        Ser un <strong>TRAMPOSO CONVICTO</strong> simplemente significa que ya
+        no serás capaz de enviar récords en solitario, o cualquier récord en
+        cooperativo otra vez.
+      </li>
+      <li>
+        Todos los tramposos serán prohibidos permanentemente de enviar nuevos
+        récords.
+      </li>
+      <li>
+        Todos los anteriormente Tramposos Convictos ya no se les permitirá subir
+        intentos en solitario.
+      </li>
+    </ul>
+    <p><em>CONDENAS INMEDIATAS</em></p>
+    <ul>
+      <li>
+        Si un jugador es atrapado inyectando un intento para ganar una ventaja
+        injusta con el uso de una modificación, se le otorgará inmediatamente el
+        título <strong>TRAMPOSO CONVICTO</strong>.
+      </li>
+      <li>
+        Si un jugador es atrapado dividiendo o alterando la velocidad de un
+        speedrun, se le otorgará inmediatamente el título
+        <strong>TRAMPOSO CONVICTO</strong>.
+      </li>
+      <li>
+        Si un jugador es atrapado usando trampas evidentes como Modo Dios o
+        cualquier otra modificación obvia con una clara intención maliciosa, se
+        le otorgará inmediatamente el título <strong>TRAMPOSO CONVICTO</strong>.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="requerimientos-de-grabación">REQUERIMIENTOS DE GRABACIÓN</h2>
+    <ul>
+      <li>
+        La calidad mínima para todos los récords debe ser de 360p. Grabación a
+        mano está bien si la calidad del gameplay es adecuada.
+      </li>
+      <li>Todo el gameplay es requerido para cada uno de los récords.</li>
+      <li>
+        Nosotros recomendamos que los speedrunners provean un contador. Si no,
+        el tiempo final será tomado desde el tiempo del video.
+      </li>
+      <li>
+        Si envías una partida con múltiples videos, el video que contenga el
+        final de la partida necesita ser enviado como link principal. Todos los
+        otros links deberán ser enviados en la sección de &quot;Additional
+        Links&quot;.
+      </li>
+    </ul>
+    <p><em>Plataformas</em></p>
+    <ul>
+      <li>
+        Twitch - Todas las grabaciones deben estar como
+        <strong>DESTACADO</strong>.
+      </li>
+      <li>
+        YouTube - Todas las grabaciones deben estar como
+        <strong>PÚBLICAS</strong> o <strong>SIN LISTAR</strong>.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="ronda-mínima-requerida">RONDA MÍNIMA REQUERIDA</h2>
+    <p>
+      ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los
+      desafíos basados en rondas.
+    </p>
+    <hr />
+    <h2 id="reglas-de-speedrun">REGLAS DE SPEEDRUN</h2>
+    <ul>
+      <li>
+        Cualquier mapa o desafío el cual contenga un contador dentro del juego,
+        <strong>ESTÁ PERMITIDO</strong> siempre y cuando muestre el tiempo final
+        de manera clara.
+      </li>
+      <li>
+        Usar contadores que se vinculan con el motor del juego
+        <strong>ESTÁN PERMITIDO</strong>.
+      </li>
+      <li>
+        Tomar el resultado de tiempo del Informe Posterior a la Acción para los
+        speedruns de las rondas 100/ 255 <strong>ESTÁ PERMITIDO</strong> en los
+        juegos que muestran esto.
+      </li>
+      <li>
+        Cortar el gameplay en múltiples videos <strong>ESTÁ PERMITIDO</strong>.
+      </li>
+      <li>Todo el gameplay es requerido.</li>
+      <li>
+        Nosotros recomendamos que los speedrunners provean un contador. Si no,
+        el tiempo final será tomado desde la duración del video.
+      </li>
+      <li>
+        Un contador es <strong>REQUERIDO</strong> para TODOS los envíos de
+        speedrun que apunten a un Top 3.
+      </li>
+    </ul>
+    <p><strong>Reglas generales de Easter Eggs:</strong></p>
+    <p>
+      <strong
+        >A través de todos los juegos, para los Récords Mundiales de Speedruns
+        de Easter Eggs, la grabación de TODOS los jugadores de la partida es
+        REQUERIDA</strong
+      >.
+    </p>
+    <p>
+      <strong
+        >Las siguientes reglas para los Speedruns de Easter Eggs fueron
+        finalizadas el 5 de Octubre del 2023. Los resultados principales pueden
+        verse
+        <a
+          href="https://docs.google.com/spreadsheets/d/1262LgZ43i88N2PdWelA3qWfJK7rGv-S2F8M_sZ08Ju0/edit#gid=303371283"
+          >aquí</a
+        ></strong
+      >
+    </p>
+    <p>
+      <strong
+        >Las siguientes reglas para los Speedruns de Easter Egg SOLO APLICAN
+        para los siguientes juegos: Black Ops 1, Black Ops 2, Black Ops 3, Black
+        Ops 4, Cold War, y Vanguard</strong
+      >.
+    </p>
+    <p><strong>Reglas de Envíos:</strong></p>
+    <ul>
+      <li>Por favor, revisa las reglas generales de envíos.</li>
+      <li>
+        Requerimientos adicionales si tu intento está dentro del Top 3:
+        <ul>
+          <li>
+            Cualquier intento top 3 cooperativo requerirá la subida de la
+            grabación de todos los jugadores de la partida. Esta regla es a
+            partir del 09/01/2024, esto significa que cualquier intento anterior
+            a esa fecha permanecerá en las tablas de clasificación,
+            independientemente si estos cumplían con esta regla o no.
+          </li>
+          <li>
+            Cualquier intento top 3 conseguido fuera de una transmisión en vivo,
+            va a ser requerido que se suba la sesión del gameplay (prueba de
+            reinicios). Esto es con el fin de ayudar a probar que el intento es
+            legítimo. Esto quiere decir que el jugador deberá proveer al menos
+            dos videos:
+            <ul>
+              <li>
+                El envío del intento (el cual puede ser editado con textos,
+                efectos, etc, siempre y cuando esto no haga el intento
+                inmirable).
+              </li>
+              <li>
+                El gameplay crudo, sin editar. Esto debe ser la grabación entera
+                de la sesión. Esto tiene que tener el gameplay y el audio del
+                gameplay (este video puede estar como
+                <strong>Sin listar</strong>). Pruebas de los reinicios NECESITAN
+                ser proveídos como un link adicional en el proceso de envío O en
+                la descripción del video como un link.
+              </li>
+              <li>
+                En los intentos Cooperativos, por lo menos el host debe subir la
+                sesión del gameplay.
+              </li>
+            </ul>
+          </li>
+          <li>
+            El video de la prueba de los reinicios no debe ser borrado incluso
+            después de que el intento haya sido aprobado.
+          </li>
+          <li>
+            Ten en mente que el personal posee el derecho de pedir por más
+            material de grabación si es necesario.
+          </li>
+          <li>
+            A partir del 04/26/2024. Envíos a través del modo teatro ya no serán
+            permitidas ser usadas como grabación principal de un envío. Se anima
+            a los jugadores a transmitir en vivo o grabar en crudo el video de
+            su intento. A pesar de esto, es recomendable para todos los
+            jugadores tener su grabación cruda para envíos cooperativos, el modo
+            teatro es aceptable a menos que tú seas el host. El host aún será el
+            responsable de tener pruebas de la sala anterior antes del intento,
+            de mostrar elixires y reinicios.
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <p><em>Texturas personalizadas</em></p>
+    <ul>
+      <li>
+        <strong>Si quieres estar seguro, simplemente no cambies nada</strong>.
+      </li>
+      <li>
+        Los siguientes cambios de texturas
+        <strong>ESTÁN PERMITIDOS</strong> (Texturas/ camuflajes de armas, vistas
+        de brazos/ guantes, y elementos del HUD (íconos de bebidas, etc)).
+      </li>
+      <li>
+        Los siguientes cambios de texturas
+        <strong>NO ESTÁN PERMITIDOS</strong> (Modelos de zombis, texturas de
+        mapas, modelos de jugadores, partes de construíbles, y efectos como
+        explosiones, power-ups, etc).
+      </li>
+      <li>
+        <strong
+          >Sé consciente que algunas texturas cambiarán más que una sola cosa.
+          Es tu responsabilidad de asegúrarte que un cambio de textura no
+          resulta también en usar un cambio de textura prohibido</strong
+        >.
+      </li>
+      <li>
+        Archivos de audio personalizados <strong>NO ESTÁN PERMITIDOS</strong>.
+      </li>
+    </ul>
+    <p><em>Método de cronometraje</em></p>
+    <ul>
+      <li>
+        <strong
+          >Los Speedruns de Easter Egg usan Tiempo En-Juego (In-Game Time (IGT))
+          como el método de cronometraje. Esto significa que si pausas el juego,
+          el contador tambíen se pausará</strong
+        >.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="descansos-y-desconecciones">DESCANSOS Y DESCONECCIONES</h2>
+    <ul>
+      <li>
+        El jugador debe reconectarse en la misma ronda en la que se desconectó
+        antes de que la siguiente ronda comience, o el intento será nulo después
+        de que cambie la ronda (también aplica si el jugador abandona la
+        partida). Ejemplo: Un jugador se desconecta en ronda 20 y la partida
+        avanza a ronda 21, la ronda posteada será la 21.
+      </li>
+      <li>
+        Los jugadores deberán continuar usando el mismo equipamiento que estaban
+        usando antes de desconectarse, si vuelven,
+        <strong>NO ESTÁN PERMITIDOS</strong> cambiar sus Chicles de su anterior
+        equipamiento (BO3).
+      </li>
+      <li>
+        Cualquier forma de sleeper? <strong>ESTÁ PERMITIDA</strong> para
+        partidas cooperativas. Ejemplos son el uso de glitches sit-in?, teniendo
+        un jugador desconectando y reconectando, manteniendo zombis en ventanas,
+        zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre
+        y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin
+        embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o
+        No Clip) <strong>NO ESTÁ PERMITIDO</strong>.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="personal">PERSONAL</h2>
+    <ul>
+      <li>
+        Los miembros del personal son gente que realiza su trabajo
+        voluntariamente para la comunidad de zombis. Su responsabilidad es
+        verificar envíos, ellos determinan si las partidas siguen las reglas y
+        cumplen los requerimientos.
+      </li>
+      <li>
+        Si un miembro del personal niega un envío, siempre hay una razón para
+        ello. Si el jugador no recibe un correo con la razón, él siempre puede
+        contactar con la administración.
+      </li>
+      <li>
+        Miembros del personal ocasionalmente pueden cometer errores. Si detectas
+        un error, puedes reportarlo usando el botón &quot;Report a
+        problem&quot;, puedes encontrarlo al fondo de la página.
+      </li>
+      <li>
+        El proceso de verificación puede tomar algo de tiempo. El estado de tu
+        envío puede ser verificado
+        <a href="https://zwr.gg/track/"><strong>AQUÍ</strong></a>
+      </li>
+      <li>
+        Puedes contactar al miembro del personal y a la administración a través
+        del <a href="https://discord.gg/zwr">Discord</a> de ZWR o mediante el
+        soporte por correo.
+      </li>
+    </ul>
+    <hr />
+    <h2 id="transmisión-en-vivo-destacada-de-zwr">
+      TRANSMISIÓN DESTACADA DE ZWR
+    </h2>
+    <ul>
+      <li>Transimisiones en vivo que son destacadas en la página principal.</li>
+      <li>
+        Un miembro del personal elegirá al azar una transmisión en vivo para
+        destacar en cada ocasión (De Twitch o YouTube).
+      </li>
+      <li>
+        Cualquier jugador podrá solicitar ser destacado enviando un mensaje al
+        personal o administrador.
+      </li>
+    </ul>
+    <hr />
+    <p>Hasta acá por ahora</p>
+    <button
+      onclick="scrollToTop()"
+      style="
+        position: fixed;
+        bottom: 20px;
+        right: 20px;
+        color: white;
+        border-radius: 100%;
+        z-index: 1000;
+      "
+    >
+      &#9650;
+    </button>
+
+    <script>
+      function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    </script>
+  </body>
+</html>
