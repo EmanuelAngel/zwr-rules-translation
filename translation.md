@@ -4,15 +4,15 @@ v 0.1
 
 ## Tabla de Contenidos
 
-- ENVÍOS
-- REGLAS GENERALES
-- TRAMPAS
-- REQUERIMIENTOS DE GRABACIÓN
-- RONDA MÍNIMA REQUERIDA
-- REGLAS DE SPEEDRUN
-- DESCANSOS Y DESCONECCIONES
-- PERSONAL
-- TRANSMISIÓN DESTACADA DE ZWR
+- [ENVÍOS](#envíos)
+- [REGLAS GENERALES](#reglas-generales)
+- [TRAMPAS](#trampas)
+- [REQUERIMIENTOS DE GRABACIÓN](#requerimientos-de-grabación)
+- [RONDA MÍNIMA REQUERIDA](#ronda-mínima-requerida)
+- [REGLAS DE SPEEDRUN](#reglas-de-speedrun)
+- [DESCANSOS Y DESCONECCIONES](#descansos-y-desconecciones)
+- [PERSONAL](#personal)
+- [TRANSMISIÓN DESTACADA DE ZWR](#transmisión-destacada-de-zwr)
 - VANGUARD
 - BLACK OPS 4
 - WORLD WAR II
