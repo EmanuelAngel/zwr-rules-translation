@@ -96,7 +96,7 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
 ## REGLAS DE SPEEDRUN
 
 - Cualquier mapa o desafío el cual contenga un contador dentro del juego, **ESTÁ PERMITIDO** siempre y cuando muestre el tiempo final de manera clara.
-- Usar contadores que se vinculan con el motor del juego **ESTÁN PERMITIDO**.
+- Usar contadores que se vinculan con el motor del juego **ESTÁ PERMITIDO**.
 - Tomar el resultado de tiempo del Informe Posterior a la Acción para los speedruns de las rondas 100/ 255 **ESTÁ PERMITIDO** en los juegos que muestran esto.
 - Cortar el gameplay en múltiples videos **ESTÁ PERMITIDO**.
 - Saltar cinemáticas **ESTÁ PERMITIDO**.
