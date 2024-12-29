@@ -1,4 +1,4 @@
-v 0.1.11
+v 0.1.12
 
 # Reglas
 
@@ -50,7 +50,7 @@ v 0.1.11
 - Glitches, bugs y exploits **NO ESTAN PERMITIDOS** a excepción de aquellos avalados por la comunidad a través de votación.
 - Skip (salto) de rondas de cualquier tipo **NO ESTÁ PERMITIDO** a no ser que se indique lo contrario.
 - Abusar de armas cuerpo a cuerpo insta-kill (por ejemplo bloquear una tecla cuerpo a cuerpo e irse AFK por horas) **NO ESTÁ PERMITIDO**.
-- Farmear récords jugando con otros jugadores para obtener un empate con tu propio récord **NO ESTÁ PERMITIDO**. Un empate con un jugador diferente es aceptable, pero cualquier cosa más que eso resultará en la eliminación de intentos aprobados.
+- Acumular récords jugando con otros jugadores para obtener un empate con tu propio récord **NO ESTÁ PERMITIDO**. Un empate con un jugador diferente es aceptable, pero cualquier cosa más que eso resultará en la eliminación de intentos aprobados.
 - Juego cooperativo en pantalla dividida **ESTÁ PERMITIDO**.
 - Crear un perfil alternativo dedicado solo para récords mundiales para garantizar una proporción perfecta **NO ESTÁ PERMITIDO**. Se anima a los jugadores a subir todos sus récords a un solo perfil.
 
@@ -63,7 +63,7 @@ _TRAMPOSO CONVICTO_
 - Cualquier jugador atrapado haciendo trampa recibirá una línea a través de su nombre y el título **TRAMPOSO CONVICTO**.
 - Ser un **TRAMPOSO CONVICTO** simplemente significa que ya no serás capaz de enviar récords en solitario, o cualquier récord en cooperativo otra vez.
 - Todos los tramposos serán prohibidos permanentemente de enviar nuevos récords.
-- A todos los que fueron establecidos como Tramposos Convictos ya no se les permitirá subir intentos en solitario.
+- A todos los que previamente fueron establecidos como Tramposos Convictos ya no se les permitirá subir intentos en solitario.
 
 _CONDENAS INMEDIATAS_
 
