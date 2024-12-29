@@ -1,4 +1,4 @@
-v 0.1
+v 0.1.10
 
 # Reglas
 
@@ -10,9 +10,9 @@ v 0.1
 - [REQUERIMIENTOS DE GRABACIÓN](#requerimientos-de-grabación)
 - [RONDA MÍNIMA REQUERIDA](#ronda-mínima-requerida)
 - [REGLAS DE SPEEDRUN](#reglas-de-speedrun)
-- [DESCANSOS Y DESCONECCIONES](#descansos-y-desconecciones)
+- [DESCANSOS Y DESCONEXIONES](#descansos-y-desconexiones)
 - [PERSONAL](#personal)
-- [TRANSMISIÓN DESTACADA DE ZWR](#transmisión-destacada-de-zwr)
+- [TRANSMISIÓN EN VIVO DESTACADA DE ZWR](#transmisión-en-vivo-destacada-de-zwr)
 - VANGUARD
 - BLACK OPS 4
 - WORLD WAR II
@@ -63,7 +63,7 @@ _TRAMPOSO CONVICTO_
 - Cualquier jugador atrapado haciendo trampa recibirá una línea a través de su nombre y el título **TRAMPOSO CONVICTO**.
 - Ser un **TRAMPOSO CONVICTO** simplemente significa que ya no serás capaz de enviar récords en solitario, o cualquier récord en cooperativo otra vez.
 - Todos los tramposos serán prohibidos permanentemente de enviar nuevos récords.
-- Todos los anteriormente Tramposos Convictos ya no se les permitirá subir intentos en solitario.
+- A todos los que fueron establecidos como Tramposos Convictos ya no se les permitirá subir intentos en solitario.
 
 _CONDENAS INMEDIATAS_
 
@@ -76,7 +76,7 @@ _CONDENAS INMEDIATAS_
 ## REQUERIMIENTOS DE GRABACIÓN
 
 - La calidad mínima para todos los récords debe ser de 360p. Grabación a mano está bien si la calidad del gameplay es adecuada.
-- Todo el gameplay es requerido para cada uno de los récords.
+- Se requiere el envío del gameplay completo para cada uno de los récords.
 - Nosotros recomendamos que los speedrunners provean un contador. Si no, el tiempo final será tomado desde el tiempo del video.
 - Si envías una partida con múltiples videos, el video que contenga el final de la partida necesita ser enviado como link principal. Todos los otros links deberán ser enviados en la sección de "Additional Links".
 
@@ -99,6 +99,7 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
 - Usar contadores que se vinculan con el motor del juego **ESTÁN PERMITIDO**.
 - Tomar el resultado de tiempo del Informe Posterior a la Acción para los speedruns de las rondas 100/ 255 **ESTÁ PERMITIDO** en los juegos que muestran esto.
 - Cortar el gameplay en múltiples videos **ESTÁ PERMITIDO**.
+- Saltar cinemáticas **ESTÁ PERMITIDO**.
 - Todo el gameplay es requerido.
 - Nosotros recomendamos que los speedrunners provean un contador. Si no, el tiempo final será tomado desde la duración del video.
 - Un contador es **REQUERIDO** para TODOS los envíos de speedrun que apunten a un Top 3.
@@ -107,7 +108,7 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
 
 **A través de todos los juegos, para los Récords Mundiales de Speedruns de Easter Eggs, la grabación de TODOS los jugadores de la partida es REQUERIDA**.
 
-**Las siguientes reglas para los Speedruns de Easter Eggs fueron finalizadas el 5 de Octubre del 2023. Los resultados principales pueden verse [aquí](https://docs.google.com/spreadsheets/d/1262LgZ43i88N2PdWelA3qWfJK7rGv-S2F8M_sZ08Ju0/edit#gid=303371283)**
+**Las siguientes reglas para los Speedruns de Easter Eggs fueron establecidas el 5 de Octubre del 2023. Los resultados principales pueden verse [aquí](https://docs.google.com/spreadsheets/d/1262LgZ43i88N2PdWelA3qWfJK7rGv-S2F8M_sZ08Ju0/edit#gid=303371283)**
 
 **Las siguientes reglas para los Speedruns de Easter Egg SOLO APLICAN para los siguientes juegos: Black Ops 1, Black Ops 2, Black Ops 3, Black Ops 4, Cold War, y Vanguard**.
 
@@ -117,7 +118,7 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
 - Requerimientos adicionales si tu intento está dentro del Top 3:
   - Cualquier intento top 3 cooperativo requerirá la subida de la grabación de todos los jugadores de la partida. Esta regla es a partir del 09/01/2024, esto significa que cualquier intento anterior a esa fecha permanecerá en las tablas de clasificación, independientemente si estos cumplían con esta regla o no.
   - Cualquier intento top 3 conseguido fuera de una transmisión en vivo, va a ser requerido que se suba la sesión del gameplay (prueba de reinicios). Esto es con el fin de ayudar a probar que el intento es legítimo. Esto quiere decir que el jugador deberá proveer al menos dos videos:
-    - El envío del intento (el cual puede ser editado con textos, efectos, etc, siempre y cuando esto no haga el intento inmirable).
+    - El envío del intento (el cual puede ser editado con textos, efectos, etc, siempre y cuando esto no haga el intento difícil de ver).
     - El gameplay crudo, sin editar. Esto debe ser la grabación entera de la sesión. Esto tiene que tener el gameplay y el audio del gameplay (este video puede estar como **Sin listar**). Pruebas de los reinicios NECESITAN ser proveídos como un link adicional en el proceso de envío O en la descripción del video como un link.
     - En los intentos Cooperativos, por lo menos el host debe subir la sesión del gameplay.
   - El video de la prueba de los reinicios no debe ser borrado incluso después de que el intento haya sido aprobado.
@@ -138,7 +139,7 @@ _Método de cronometraje_
 
 **---**
 
-## DESCANSOS Y DESCONECCIONES
+## DESCANSOS Y DESCONEXIONES
 
 - El jugador debe reconectarse en la misma ronda en la que se desconectó antes de que la siguiente ronda comience, o el intento será nulo después de que cambie la ronda (también aplica si el jugador abandona la partida). Ejemplo: Un jugador se desconecta en ronda 20 y la partida avanza a ronda 21, la ronda posteada será la 21.
 - Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁ PERMITIDO** cambiar sus Chicles de su anterior equipamiento (BO3).
@@ -157,10 +158,11 @@ _Método de cronometraje_
 
 **---**
 
-## TRANSMISIÓN DESTACADA DE ZWR
+## TRANSMISIÓN EN VIVO DESTACADA DE ZWR
 
 - Transimisiones en vivo que son destacadas en la página principal.
 - Un miembro del personal elegirá al azar una transmisión en vivo para destacar en cada ocasión (De Twitch o YouTube).
+- Las únicas transmisiones en vivo que serán destacadas son transmisiones de zombis (destacando cualquiera de los juegos que ZWR soporta).
 - Cualquier jugador podrá solicitar ser destacado enviando un mensaje al personal o administrador.
 
 **---**
