@@ -1,4 +1,4 @@
-v 0.1.10
+v 0.1.11
 
 # Reglas
 
@@ -31,7 +31,7 @@ v 0.1.10
 
 - Para prevenir equivocaciones y rechazos, los jugadores siempre deben leer las reglas cuidadosamente.
 - Asegúrate que tu envío cumpla todos los requerimientos que están listados bajo las reglas de cada desafío en específico.
-- A partir del 12 de mayo de 2024, para todos los envíos flawless (sin caídas), deberás proveer un indicativo donde termina tu intento flawless en el mensaje de tu envío como una marca de tiempo.
+- A partir del 12 de Mayo de 2024, para todos los envíos flawless (sin caídas), deberás proveer un indicativo donde termina tu intento flawless en el mensaje de tu envío como una marca de tiempo.
 - Siempre revisa dos veces si has seleccionado correctamente el juego, mapa, categoría y desafío.
 - Cada envío debe contener el gameplay completo, sino este será denegado.
 - Después de que un intento es aprobado, se espera que la grabación se mantenga accesible para que el récord se mantenga en las tablas de clasificación. Si la grabación se termina perdiendo o se privatiza por la razón que sea, ese récord ya no será considerado válido y será removido de las tablas de clasificación.
@@ -116,14 +116,14 @@ ZWR ahora requiere que alcances como mínimo la ronda 10 en TODOS los desafíos 
 
 - Por favor, revisa las reglas generales de envíos.
 - Requerimientos adicionales si tu intento está dentro del Top 3:
-  - Cualquier intento top 3 cooperativo requerirá la subida de la grabación de todos los jugadores de la partida. Esta regla es a partir del 09/01/2024, esto significa que cualquier intento anterior a esa fecha permanecerá en las tablas de clasificación, independientemente si estos cumplían con esta regla o no.
+  - Cualquier intento top 3 cooperativo requerirá la subida de la grabación de todos los jugadores de la partida. Esta regla es a partir del 1 de Septiembre del 2024, esto significa que cualquier intento anterior a esa fecha permanecerá en las tablas de clasificación, independientemente si estos cumplían con esta regla o no.
   - Cualquier intento top 3 conseguido fuera de una transmisión en vivo, va a ser requerido que se suba la sesión del gameplay (prueba de reinicios). Esto es con el fin de ayudar a probar que el intento es legítimo. Esto quiere decir que el jugador deberá proveer al menos dos videos:
     - El envío del intento (el cual puede ser editado con textos, efectos, etc, siempre y cuando esto no haga el intento difícil de ver).
     - El gameplay crudo, sin editar. Esto debe ser la grabación entera de la sesión. Esto tiene que tener el gameplay y el audio del gameplay (este video puede estar como **Sin listar**). Pruebas de los reinicios NECESITAN ser proveídos como un link adicional en el proceso de envío O en la descripción del video como un link.
     - En los intentos Cooperativos, por lo menos el host debe subir la sesión del gameplay.
   - El video de la prueba de los reinicios no debe ser borrado incluso después de que el intento haya sido aprobado.
   - Ten en mente que el personal posee el derecho de pedir por más material de grabación si es necesario.
-  - A partir del 04/26/2024. Envíos a través del modo teatro ya no serán permitidos ser usados como grabación principal de un envío. Se anima a los jugadores a transmitir en vivo o grabar en crudo el video de su intento. A pesar de esto, es recomendable para todos los jugadores tener su grabación cruda para envíos cooperativos, el modo teatro es aceptable a menos que tú seas el host. El host aún será el responsable de tener pruebas de la sala anterior antes del intento, de mostrar elixires y reinicios.
+  - A partir del 26 de Abril del 2024. Envíos a través del modo teatro ya no serán permitidos ser usados como grabación principal de un envío. Se anima a los jugadores a transmitir en vivo o grabar en crudo el video de su intento. A pesar de esto, es recomendable para todos los jugadores tener su grabación cruda para envíos cooperativos, el modo teatro es aceptable a menos que tú seas el host. El host aún será el responsable de tener pruebas de la sala anterior antes del intento, de mostrar elixires y reinicios.
 
 _Texturas personalizadas_
 

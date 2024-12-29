@@ -1,1 +1,3 @@
 *.todo
+.prettierrc
+translation.html
