@@ -1,4 +1,4 @@
-v 0.1.14
+v 0.1.15
 
 # Reglas
 
@@ -43,7 +43,7 @@ v 0.1.14
 **ASEGÚRATE DE LEER LAS REGLAS DE CADA DESAFÍO EN ESPECÍFICO EN SU RESPECTIVA PÁGINA DE TABLA DE CLASIFICACIÓN!**
 
 - Jugadores que se atrapen haciendo trampa estarán sujetos al título **TRAMPOSO CONVICTO**. Revisa más abajo para información en detalle.
-- FOV (Campo de visión) en PC en juegos más viejos que no tengan un control del FOV (para juegos nuevos puedes cambiar el FOV desde los ajustes de este) está **PERMITIDO**.
+- FOV (Campo de visión) en PC en juegos más viejos que no tengan un control del FOV (para juegos nuevos puedes cambiar el FOV desde los ajustes de este) **ESTÁ PERMITIDO**.
 - Cambiar el FOV en juegos que no tengan un control del FOV (para juegos nuevos puedes cambiar el FOV desde los ajustes de este) **NO ESTÁ PERMITIDO** en **CONSOLA**. **Jugadores de consola deben jugar con el FOV por defecto**.
 - Sólo se requiere que 1 jugador esté jugando activamente durante intentos cooperativos; de todas maneras, si un jugador está AFK (no está jugando) por la duración total del intento, será removido del récord y reemplazado como cuenta AFK.
 - Duplicar armas especiales **NO ESTÁ PERMITIDO** a no ser que se indique lo contrario.
