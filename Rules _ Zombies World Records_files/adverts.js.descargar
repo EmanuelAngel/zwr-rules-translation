@@ -1,6 +1,0 @@
-$(document).ready(function(){
-    var e = document.createElement('div');
-    e.id = '3bd84j4bhtg32u';
-    e.style.display = 'block';
-    document.body.appendChild(e);
-});
