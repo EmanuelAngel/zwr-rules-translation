@@ -3,9 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Geist&display=swap" rel="stylesheet" />
     <link
       rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css"
@@ -17,6 +14,16 @@
 
       html {
         scroll-behavior: smooth;
+      }
+
+      .visually-hidden {
+        clip: rect(0 0 0 0);
+        clip-path: inset(50%);
+        height: 1px;
+        overflow: hidden;
+        position: absolute;
+        white-space: nowrap;
+        width: 1px;
       }
     </style>
     <script>
@@ -35,7 +42,6 @@
         }
       })();
     </script>
-
     <title>Reglas traducidas</title>
   </head>
   <body id="inicio" class="container" style="position: relative">
@@ -51,8 +57,32 @@
     >
       <nav>
         <ul>
-          <li>
-            <span>Tema</span>
+          <li style="border-bottom-style: none" data-tooltip="Change Theme" data-placement="left">
+            <span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="icon icon-tabler icons-tabler-outline icon-tabler-sun-moon"
+              >
+                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                <path d="M9.173 14.83a4 4 0 1 1 5.657 -5.657" />
+                <path
+                  d="M11.294 12.707l.174 .247a7.5 7.5 0 0 0 8.845 2.492a9 9 0 0 1 -14.671 2.914"
+                />
+                <path d="M3 12h1" />
+                <path d="M12 3v1" />
+                <path d="M5.6 5.6l.7 .7" />
+                <path d="M3 21l18 -18" />
+              </svg>
+              <span class="visually-hidden">Tema</span>
+            </span>
             <input class="ColorToggler" type="checkbox" role="switch" name="theme" value="dark" />
 
             <script>
@@ -75,6 +105,8 @@
     </header>
 
     <em>v 0.1.17</em>
+    <br />
+    <a href="https://zwr.gg/rules" class="secondary">Sitio oficial</a>
     <br />
     <br />
     <br />
@@ -462,6 +494,9 @@
 
     <a href="#inicio">
       <button
+        data-tooltip="Go to top"
+        data-placement="left"
+        class="secondary"
         style="
           position: fixed;
           bottom: 20px;
@@ -471,7 +506,7 @@
           z-index: 1000;
         "
       >
-        &#9650;
+        &nbsp;↑&nbsp;
       </button>
     </a>
   </body>
