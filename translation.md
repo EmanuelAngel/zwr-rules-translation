@@ -1,4 +1,4 @@
-v 0.1.15
+v 0.1.16
 
 # Reglas
 
@@ -143,8 +143,8 @@ _Método de cronometraje_
 
 - El jugador debe reconectarse en la misma ronda en la que se desconectó antes de que la siguiente ronda comience, o el intento será nulo después de que cambie la ronda (también aplica si el jugador abandona la partida). Ejemplo: Un jugador se desconecta en ronda 20 y la partida avanza a ronda 21, la ronda posteada será la 21.
 - Los jugadores deberán continuar usando el mismo equipamiento que estaban usando antes de desconectarse, si vuelven, **NO ESTÁ PERMITIDO** cambiar sus Chicles de su anterior equipamiento (BO3).
-- Cualquier forma de sleeper? **ESTÁ PERMITIDA** para partidas cooperativas.
-  Ejemplos son el uso de glitches sit-in?, teniendo un jugador desconectando y reconectando, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
+- Cualquier forma de descanso **ESTÁ PERMITIDA** para partidas cooperativas.
+  Ejemplos son el uso de glitches sit-in, teniendo un jugador desconectando y reconectando, manteniendo zombis en ventanas, zombis bajo la influencia de un EMP, y estando fuera de un mapa siempre y cuando los jugadores dejen de matar zombis o pasos de Easter Egg. Sin embargo, usar trampas para llevar a cabo un sleeper? (como Modo Dios o No Clip) **NO ESTÁ PERMITIDO**.
 
 **---**
 
