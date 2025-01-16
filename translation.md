@@ -1,4 +1,4 @@
-v 0.2.0
+v 0.2.1
 
 # Reglas
 
@@ -13,7 +13,7 @@ v 0.2.0
 - [DESCANSOS Y DESCONEXIONES](#descansos-y-desconexiones)
 - [PERSONAL](#personal)
 - [TRANSMISIÓN EN VIVO DESTACADA DE ZWR](#transmisión-en-vivo-destacada-de-zwr)
-
+- [BLACK OPS 6](#black-ops-6)
 - [VANGUARD](#vanguard)
 - [BLACK OPS 4](#black-ops-4)
 - [WORLD WAR II](#world-war-ii)
@@ -168,7 +168,7 @@ _Método de cronometraje_
 
 **---**
 
-[REGLAS ESPECIFICAS DE CADA JUEGO](https://www.zwr.gg/leaderboars)
+[REGLAS ESPECIFICAS DE CADA JUEGO](https://www.zwr.gg/leaderboards)
 
 ---
 
@@ -186,10 +186,10 @@ _Método de cronometraje_
 **Reglas Generales**:
 
 - Todas las partidas deberán ser jugadas en el parche más reciente del juego.
-- Todas las partidas en cooperativo deberán ser jugadas online?.
-- Todas las partidas en solitario jugadas en Der Anfang OFFLINE? deberán mostrarte haciendo [esto](https://www.youtube.com/watch?v=tfwsahpOwvk) para hacer que Zabella aparezca en offline.
-- Solo en 3P y 4P, el Brimstone Covenant? está prohibido si todos los jugadores están campeando en una localización climb-up?.
-- Por favor, tenga en cuenta que las partidas jugadas antes del 28 de Septiembre de 2022 no son válidas debido a cambios significativos en una actualización que parcheaba cómo los jugadores consiguen rondas altas.
+- Todas las partidas en cooperativo deberán ser jugadas en modo online.
+- Todas las partidas en solitario jugadas en Der Anfang OFFLINE deberán mostrarte haciendo [esto](https://www.youtube.com/watch?v=tfwsahpOwvk) para hacer que Zabella aparezca en modo offline.
+- Solo en 3 y 4 jugadores, el Brimstone Covenant está prohibido si todos los jugadores están campeando en una localización trepandose.
+- Por favor, tenga en cuenta que las partidas jugadas antes del 28 de Septiembre de 2022 no son válidas debido a cambios significativos en una actualización que parcheaba cómo los jugadores llegan a rondas altas.
 
 # BLACK OPS 4
 
@@ -199,8 +199,8 @@ _Método de cronometraje_
 - Los speedruns empiezan cuando la Ronda 1 aparece en la pantalla.
 - La única cosa permitida que se puede inyectar en BO4 es **FAST RESTART**. Cualquier otra cosa **NO ESTÁ PERMITIDA**.
 - Project-BO4 **ESTÁ PERMITIDO excepto para envíos de Easter Egg**.
-- Pantalla-Dividida **ESTÁ PERMITIDO**.
-- Cubrir información del HUD tal como vida, puntos, o directamente debajo del contador de la ronda (donde se ven los mensajes de Jugador Conectado), **NO ESTÁ PERMITIDO**.
+- Pantalla-Dividida **ESTÁ PERMITIDA**.
+- Cubrir información del HUD tales como vida, puntos, o directamente debajo del contador de la ronda (donde se ven los mensajes de Jugador Conectado), **NO ESTÁ PERMITIDO**.
 
 _**Permitido**_:
 
@@ -211,14 +211,14 @@ _**Permitido**_:
 _**No Permitido**_:
 
 - Duplicar armas **NO ESTÁ PERMITIDO**.
-- Caerse intencionalmente y ser revivido por El Cetro de Ra o Ragnarok con la bebida Bandolier Bandit? para generar munición **NO ESTÁ PERMITIDO**.
-- Jugar en Mutaciones Personalizadas? **NO ESTÁ PERMITIDO**.
+- Caerse intencionalmente y ser revivido por el Cetro de Ra o Ragnarok con la bebida Bandolier Bandit para generar munición **NO ESTÁ PERMITIDO**.
+- Jugar en Mutaciones Personalizadas **NO ESTÁ PERMITIDO**.
 - Jugar con bots **NO ESTÁ PERMITIDO**.
 - Exploit del escudo **NO ESTÁ PERMITIDO en dificultad normal**.
-  - Usar repetidamente las explosiones de escudo de Victorious Tortoise? (intencionalmente) para matar ordas enteras de zombis **NO ESTÁ PERMITIDO**.
-  - Campear al lado de la mesa del escudo con Victorious Tortoise? **NO ESTÁ PERMITIDO**.
+  - Usar repetidamente las explosiones de escudo de Victorious Tortoise (intencionalmente) para matar ordas enteras de zombis **NO ESTÁ PERMITIDO**.
+  - Campear al lado de la mesa del escudo con Victorious Tortoise **NO ESTÁ PERMITIDO**.
 - Usar puertas gratis a través de todos los speedruns **NO ESTÁ PERMITIDO**.
-- Usar Electric Burst? en la máquina de bebidas Odin/Tónica en combinación con el cuchillo balístico **NO ESTÁ PERMITIDO**, exceptuando para speedruns.
+- Usar Electric Burst en la máquina de bebidas Odin/Tónica en combinación con el cuchillo balístico **NO ESTÁ PERMITIDO**, exceptuando para speedruns.
 
 ---
 
@@ -226,16 +226,16 @@ _**No Permitido**_:
 
 **General**:
 
-- Cada partida/envío sólo es aceptado en 1 categoría. (No or With Consumables).
-- La posición de inicio para speedruns será cuando 'Oleada 1' aparezca en pantalla excepto en The Darkest Shore (cuando la pantalla es visible?).
+- Cada partida/envío sólo es aceptado en 1 categoría. (No o With Consumables).
+- La posición de inicio para speedruns será cuando 'Oleada 1' aparezca en pantalla excepto en The Darkest Shore (cuando la pantalla es visible).
 - Lugares/estrategias de descanso **ESTÁN PERMITIDOS** para cooperativo. Los jugadores **NO ESTÁN PERMITIDOS** matar zombis durante este tiempo.
 
 _**No Permitido**_:
 
 - Abusar de armas cuerpo a cuerpo insta-kill (por ejemplo bloquear una tecla cuerpo a cuerpo e irse AFK por horas) **NO ESTÁ PERMITIDO**.
-- Cualquier partida del mapa "Prólogo" **NO ESTÁN PERMITIDAS** en las tablas de clasificación de "Groesten Haus?" y vice versa.
+- Cualquier partida del mapa "Prólogo" **NO ESTÁN PERMITIDAS** en las tablas de clasificación de "Groesten Haus" y vice versa.
 - Cuerpo a cuerpo rápido **NO ESTÁ PERMITIDO**.
-- Bajar The Anchors? en The Shadowed Throne a través de los medios de un glitch Out-of-Bounds **NO ESTÁ PERMITIDO**.
+- Bajar Las Anclas en The Shadowed Throne a través de los medios de un glitch Out-of-Bounds **NO ESTÁ PERMITIDO**.
 - Jugadores que se caen intencionalmente a si mismos para crear una barrera que detenga zombis de entrar ciertas areas accesibles del mapa **NO ESTÁ PERMITIDO**.
 - Jugar una partida cooperativa de 2 jugadores por ti mismo **NO ESTÁ PERMITIDO**.
 
@@ -246,8 +246,8 @@ _**No Permitido**_:
 **General**:
 
 - Bloquear spawns con Minas Trampa, C4, o estando encima de estos, **ESTÁ PERMITIDO** siempre y cuando un mínimo de 2 spawns naturales estén activos en todo momento.
-- Cada partida/envío sólo es aceptado en 1 categoría (Fate Cards o Fate & Fortune Cards?).
-- El glitch para usar infinitamente Cards **NO ESTÁ PERMITIDO**.
+- Cada partida/envío sólo es aceptado en 1 categoría (Fate Cards o Fate & Fortune Cards).
+- El glitch para usar infinitamente Cartas **NO ESTÁ PERMITIDO**.
   - Hay una excepción en Attack of the Radioactive Thing (Logrado por completar el Easter Egg principal o el Easter Egg Skull Hop) **ESTÁ PERMITIDA**.
 - El cliente IW7 **NO ESTÁ PERMITIDO**.
 - Cubrir información del HUD tal como puntos, o la esquina SUPERIOR IZQUIERDA de la pantalla **NO ESTÁ PERMITIDO**.
@@ -261,14 +261,14 @@ _**Las reglas a continuación fueron establecidas el 13 de Febrero de 2022. Los 
 **General**:
 
 - **TODAS LAS PARTIDAS EN COOPERATIVO DEBEN MOSTRAR LA SALA PRE-PARTIDA O POST-PARTIDA. SI NO, LOS JUGADORES DEBERÁN PROVEER TODOS LOS PUNTOS DE VISTA. Fallar en esto resultará en la denegación de tal envío.**
-- **TODOS LOS RÉCORDS TOP 3 DE EASTER EGG REQUIREN QUE TODOS LOS JUGADORES TENGAN SU PRUEBA DE REINICIOS DISPONIBLE A DEMANDA HASTA QUE EL RÉCORD SEA APROVADO.**
+- **TODOS LOS RÉCORDS TOP 3 DE EASTER EGG REQUIREN QUE TODOS LOS JUGADORES TENGAN SU PRUEBA DE REINICIOS DISPONIBLE A DEMANDA HASTA QUE EL RÉCORD SEA APROBADO.**
 - Cualquier partida de ronda alta jugada antes del parche de Abril de 2017 será denegada o removida debido a Widows Wine causando un error en rondas altas o Widows Wine haciendo aparecer más granadas después de matar a una horda de zombis con Alto Horno, cualquier partida pasada esta fecha será aceptada normalmente.
 - Para todas las partidas en cooperativo que tengan un mod cargado, el punto de vista del host deberá ser incluido en el envío. Fallar en esto resultará en la de denegación del récord.
 - Todas las partidas que tengan un mod cargado que no provenga de la Workshop de Steam deberá ser mostrado a nosotros el contenido del mismo para poder verificar su validez.
 - Cualquier partida sin chicles/chicles clásicos en la que se use el chicle Zona Reptadora (Crawl Space) para descansos no podrá ser enviada a la categoría Megas a menos que sea SOLO enviada a Megas.
-- Las partidas speedrun de rondas sin chicles puede ser subida a chicles clásicos y chicles mega de igual manera, pero un speedrun de rondas de chicles clásicos sólo puede ser enviada a chicles clásicos.
+- Las partidas speedrun de rondas sin chicles pueden ser subidas a chicles clásicos y chicles mega de igual manera, pero un speedrun de rondas de chicles clásicos sólo puede ser enviada a chicles clásicos.
 - A partir del 15 de Julio de 2023, si un jugador está usando un mod que NO ha sido verificado por ZWR, deberán proveer el parche usado a un administrador o superior. A los jugadores se les requiere que muestren evidencia al final del intento de ellos proveyendo el parche para informar al personal de ZWR. Si esto no se hace, el intento será denegado hasta que el parche sea proveído.
-- A partir del 15 de Julio de 2023, a los jugadores se les requiere proveer la 'grabación cruda' del intento para **RONDAS** y **SPEEDRUN DE EASTER EGG solamente si ha sido jugado offline (fuera de transmisión en vivo)**. Debido a la naturaleza del RNG (la suerte) en estos intentos, requerir la grabación cruda permitirá a los verificadores confirmar algún uso de modificación del RNG a través de injecciones o parches. La grabación cruda será toda la grabación capturada de la sesión en la que obtuviste el intento final.
+- A partir del 15 de Julio de 2023, a los jugadores se les requiere proveer la 'grabación cruda' del intento para **RONDAS** y **SPEEDRUN DE EASTER EGG solamente si ha sido jugado offline (fuera de transmisión en vivo)**. Debido a la naturaleza del RNG (la suerte) en estos intentos, requerir la grabación cruda permitirá a los verificadores confirmar algún uso de modificación del RNG a través de inyecciones o parches. La grabación cruda será toda la grabación capturada de la sesión en la que obtuviste el intento final.
 - La versiones de PS3/Xbox360 del juego no están permitidas para ningún récord.
 - Cualquier partida enviada **DEBE** ser jugada en la versión más reciente.
 
@@ -278,13 +278,13 @@ _**Permitido**_:
 - Contadores de tiempo automáticos **ESTÁN PERMITIDOS**.
 - Contadores de tiempo de trampas **ESTÁN PERMITIDOS**.
 - El cliente BOIII **ESTÁ PERMITIDO** (EXCLUYENDO CATEGORÍAS DE EASTER EGG); sin embargo, todos los jugadores **DEBEN** proveer su punto de vista de la partida entera para ser aprobado.
-- Ciertos parches **EST+AN PERMITDOS SOLO PARA CATEGORÍAS DE RONDA ALTA**; explicación adicional puede verse más abajo. Por favor, asegurate de leerla minuciosamente.
+- Ciertos parches **ESTÁN PERMITDOS SOLO PARA CATEGORÍAS DE RONDA ALTA**; explicación adicional puede verse más abajo. Por favor, asegurate de leerla minuciosamente.
 - Pantalla dividida en cooperativo **ESTÁ PERMITIDO**.
 - Camuflajes y texturas personalizadas **ESTÁ PERMITIDO**.
 - Teclas dedicadas para Fast Restart y resoluciones de pantalla personalizadas **ESTÁN PERMITIDAS**.
 - Jugar en solitario en una partida en cooperativo **ESTÁ PERMITIDO**.
 - Usermaps **ESTÁ PERMITIDO** para evitar el reinicio de servidores de Steam de los dias Martes.
-- Usermaps **ESTÁ PERMITIDO** para dar acceso a la consola para jugadores de PC.
+- Usermaps **ESTÁ PERMITIDO** para obtener acceso a la consola para jugadores de PC.
 - Saltar dialogos **ESTÁ PERMITIDO**.
 
 _**NO PERMITIDO**_:
@@ -298,12 +298,12 @@ _**NO PERMITIDO**_:
 - Glitches para especialistas infinitos **NO ESTÁN PERMITIDOS**.
 - Cargar un mod o usar el "MENU GLITCH" para adquirir accesorios inobtenibles tales como FMJ **NO ESTÁ PERMITIDO**.
 - Master Spawner **NO ESTÁ PERMITIDO (con la excepción de rondas de perros).**
-- Sin niebla **NO ESTÁ PERMITIDO**.
+- Quitar la niebla **NO ESTÁ PERMITIDO**.
 - Prolongar armas especiales a través del uso de glitches **NO ESTÁ PERMITIDO**.
-- Substituir a un jugador durante cooperativo **NO ESTÁ PERMITIDO**.
+- Sustituir a un jugador durante cooperativo **NO ESTÁ PERMITIDO**.
 - Texturas transparentes **NO ESTÁN PERMITIDAS (con la excepción de camuflajes de armas, EXCLUYENDO SPEEDRUNS DE EASTER EGG)**.
 - Contador de zombis **NO ESTÁ PERMITIDO**.
-- Injecciones **NO ESTÁN PERMITIDAS** (El parche de seguridad de Serious está permitido).
+- Inyecciones **NO ESTÁN PERMITIDAS** (El parche de seguridad de Serious está permitido).
 - Almacenar/Acumular chicles **NO ESTÁ PERMITIDO**.
 
 _**Parches**_:
@@ -313,7 +313,7 @@ _**Parches**_:
 
 ##### Parches Verificados:
 
-- Altamente recomendamos a los jugadores que usen parches verificados que hayan sido provistos debajo para asegurar que su partida está entre las reglas y no tenga posibilidades de ser denegado.
+- Recomendamos altamente a los jugadores que usen parches verificados que hayan sido provistos debajo para asegurar que su partida está entre las reglas y no tenga posibilidades de ser denegado.
 - Para speedruns de rondas, si no usas esos parches verificados, tendrás que enviar el parche usado a cualquiera de los administradores o superiores para ser verificado. Fallando esto tu envío puede resultar siendo denegado.
 - Cualquier tipo de parche de RNG (la suerte) solo está permitido en intentos basados en rondas (excluyendo first rooms (votado por la comunidad)) y categorías de speedrun de la ronda 255.
 - El contador de tiempo in-game y el contador de tiempo de ronda en ambos de los parches de Jumpy están permitidos en sus respectivas categorias.
