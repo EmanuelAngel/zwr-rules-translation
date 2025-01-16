@@ -13,12 +13,13 @@ v 0.2.0
 - [DESCANSOS Y DESCONEXIONES](#descansos-y-desconexiones)
 - [PERSONAL](#personal)
 - [TRANSMISIÓN EN VIVO DESTACADA DE ZWR](#transmisión-en-vivo-destacada-de-zwr)
-- VANGUARD
-- BLACK OPS 4
-- WORLD WAR II
-- INFINITE WARFARE
-- BLACK OPS 3
-- PARCHES VERIFICADOS
+
+- [VANGUARD](#vanguard)
+- [BLACK OPS 4](#black-ops-4)
+- [WORLD WAR II](#world-war-ii)
+- [INFINITE WARFARE](#infinite-warfare)
+- [BLACK OPS 3](#black-ops-3)
+  - [PARCHES VERIFICADOS](#parches-verificados)
 - ADVANCED WARFARE
 - BLACK OPS 2
 - MODERN WARFARE 3
@@ -310,7 +311,7 @@ _**Parches**_:
 - DISCLAIMER: Modificar/alterar rondas especiales, o parchear la caja para que siempre te de ciertas armas hasta la ronda 255 NO ESTÁ PERMITIDO. Jugadores atrapados haciendo esto tendrán todas las partidas en solo y cualquier cooperativo hosteado removidas de su perfil y se les proveerá el rol tramposo convicto.
 - Parches de caja y bebidas **ESTÁN PERMITIDOS** para todas las categorías principales **EXCEPTO FIRST ROOM, RONDAS Y SPEEDRUNS DE EASTER EGGS**. Esto incluye Rondas Altas, Flawless (sin caídas), No AAT, No Power, No Perks, No Jug. Esto **NO** incluye desafíos de la comunidad tales como Speedruns de Canciones, Speedruns de Pack-a-Punch, etc.
 
-_**Parches Verificados**_:
+##### Parches Verificados:
 
 - Altamente recomendamos a los jugadores que usen parches verificados que hayan sido provistos debajo para asegurar que su partida está entre las reglas y no tenga posibilidades de ser denegado.
 - Para speedruns de rondas, si no usas esos parches verificados, tendrás que enviar el parche usado a cualquiera de los administradores o superiores para ser verificado. Fallando esto tu envío puede resultar siendo denegado.
