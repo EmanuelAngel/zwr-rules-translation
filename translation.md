@@ -1,4 +1,4 @@
-v 0.2.2
+v 0.3.0
 
 # Reglas
 
@@ -20,13 +20,13 @@ v 0.2.2
 - [INFINITE WARFARE](#infinite-warfare)
 - [BLACK OPS 3](#black-ops-3)
   - [PARCHES VERIFICADOS](#parches-verificados)
-- ADVANCED WARFARE
-- BLACK OPS 2
-- MODERN WARFARE 3
-- BLACK OPS
-- WORLD AT WAR
-- MAPAS CUSTOM/ TABLAS DE CLASIFICACIÓN DE LA COMUNIDAD
-- MOD ULTIMATE EXPERIENCE
+- [ADVANCED WARFARE](#advanced-warfare)
+- [BLACK OPS 2](#black-ops-2)
+- [MODERN WARFARE 3](#modern-warfare-3)
+- [BLACK OPS](#black-ops)
+- [WORLD AT WAR](#world-at-war)
+- [MAPAS CUSTOM/ TABLAS DE CLASIFICACIÓN DE LA COMUNIDAD](#MAPAS-CUSTOM/-TABLAS-DE-CLASIFICACIÓN-DE-LA-COMUNIDAD)
+- [MOD ULTIMATE EXPERIENCE](#mod-ultimate-experience)
 
 ## ENVÍOS
 
@@ -339,3 +339,228 @@ _**Origins**_:
 
 - Parchear la primer recompensa **ESTÁ PERMITIDO** solamente en **FIRST ROOM**.
 - Remover MP-40s de las recompensas parcheadas de los cofres, el cual dará 50% de chances para conseguir la Weevil y 50% de chances para conseguir la ICR-1 **ESTÁ PERMITIDO** solamente en **FIRST ROOM**.
+
+# ADVANCED WARFARE
+
+**General**:
+
+- Abusar de lugares donde la IA se suicide (como esquinas en Ascend) **NO ESTÁ PERMITIDO**.
+- Lugares AFK **ESTÁN PERMITIDOS** pero no podrás progresar con la ronda de ninguna manera mientras un jugador esté AFK.
+- A partir de Mayo de 2023, jugar en las consolas PS3/Xbox360 **NO ESTÁ PERMITIDO**.
+- Bots **NO ESTÁN PERMITIDOS** de ninguna manera en zombis.
+- Usar el cliente S1X para Advanced Warfare **ESTÁ PERMITIDO**.
+- Parche para la primer caja **ESTÁ PERMITIDO exceptuando para Speedruns de Easter Egg**.
+- Cubrir información del HUD tales como puntos, o la esquina SUPERIOR IZQUIERDA de la pantalla **NO ESTÁ PERMITIDO**.
+
+---
+
+# BLACK OPS 2
+
+**General**:
+
+_**Las siguientes reglas fueron establecidas el 29 de Marzo del 2023. Los resultados principales pueden verse [aquí](https://docs.google.com/spreadsheets/d/1262LgZ43i88N2PdWelA3qWfJK7rGv-S2F8M_sZ08Ju0/edit#gid=303371283) y cualquier resultado faltante puede ser visto [aquí](https://docs.google.com/spreadsheets/d/1kAOVjlp3wR7OWHJNBNQi71nDZXM7SyiKY9qXaz_8A0o/edit#gid=0).**_
+
+- Los ajustes en "Partida Personalizada" **NO DEBEN** ser modificados a menos que las reglas de la tabla en especifico digan lo contrario.
+- Estas son las opciones personalizables predeterminadas - Dificultad: Original | Ronda inicial: 1 | Magia: Activada | Solo tiros a la cabeza: Desactivado | Perros: Desactivado.
+- **DISCLAIMER**: Modificar/Alterar rondas especiales, o parchear la caja para que siempre te de ciertas armas hasta una ronda en concreto NO ESTÁ PERMITIDO. Jugadores atrapados haciendo esto tendrán todas las partidas en solo y cualquier cooperativo hosteado removidas de su perfil y se les proveerá el rol tramposo convicto.
+
+_**Permitido**_:
+
+- Contadores automáticos de equipamiento **ESTÁN PERMITIDOS** (ej. Turbinas, Trampolín, etc).
+- El banco **ESTÁ PERMITIDO** (con la excepción de tablas especificas de Speedruns de Easter Egg).
+- Cambiar el FOV **ESTÁ PERMITIDO** (hasta 120 de FOV).
+- Cambiar los FPS **ESTÁN PERMITIDOS** (Cualquier FPS permitidos EXCEPTUANDO UN MÁXIMO DE 250 EN SPEEDRUNS DE EASTER EGG).
+- Pantalla dividida **ESTÁ PERMITIDO**.
+- Parche de primer caja **ESTÁ PERMITIDO SOLO para SPEEDRUNS DE RONDAS**.
+- Corregir la velocidad al retroceder **ESTÁ PERMITIDO** (Con la excepción de First Rooms - votado por la comunidad).
+- Contadores de tiempo y contador de tiempo de ronda dentro del juego **ESTÁN PERMITIDOS**.
+- Arreglo para la Jetgun y para las trampas **ESTÁN PERMITIDOS**.
+- Perma-perks **ESTÁN PERMITIDOS** (Con la excepción de desconectarse y reconectarse en partidas cooperativas - vea más abajo).
+- Jugar solo en una partida cooperativa **ESTÁ PERMITIDO**.
+- Comprar la Ray Gun de la pared **ESTÁ PERMITIDO SOLO para SPEEDRUNS DE EASTER EGG Y FIRST ROOM DE BURIED** (votado por la comunidad).
+- Redacted, Redacted Nightly y Plutonium (Antiguos y Nuevos) **ESTÁN PERMITIDOS**.
+- Contadores de reinicios **ESTÁN PERMITIDOS**.
+
+_**NO Permitido**_:
+
+- Cualquier comando que requiera sv_cheats 1 **NO ESTÁ PERMITIDO**.
+- Contador automático de las trampas **NO ESTÁ PERMITIDO**.
+- Sobrepasar la congelación/error del día 25 **NO ESTÁ PERMITIDO**.
+- Contador de cuerpos **NO ESTÁ PERMITIDO**.
+- Fast Ray **NO ESTÁ PERMITIDO**.
+- Modo Dios para descansos **NO ESTÁ PERMITIDO**.
+- Barra de vida **NO ESTÁ PERMITIDO**.
+- Camuflajes con contraste alto (ejemplo: blanco, verde, rosa, púrpura, zombis que permitan una mejor visibilidad) **NO ESTÁ PERMITIDO**.
+- Quitar la niebla **NO ESTÁ PERMITIDO**.
+- Los jugadores **NO ESTÁN PERMITIDOS** manipular las siguientes desconexiones y reconexiones en cooperativo:
+  - **NO ESTÁ PERMITIDO** obtener de nuevo perma-perks después de la ronda 15 (ya que se tendrá perma-jugger permanentemente a pesar de caerse).
+  - **NO ESTÁ PERMITIDO** cambiar el arma del refrigerador U obtener más munición cada ronda después de desconectarse.
+  - **NO ESTÁ PERMITIDO** desconectarse para cambiar cómo se ejecuta el juego, ej, removiendo el elevador de Quick Revive permanentemente, desactivando Quick Revive en Die Rise, o recuperando el Acid Gat para requerir menos entidades. Esto se consigue haciendo que el jugador azul abandone durante ciertos pasos del juego para hacer que el juego emule una partida en solitario.
+- Sustituir un jugador durante cooperativo **NO ESTÁ PERMITIDO**.
+- Texturas transparentes **NO ESTÁN PERMITIDAS**.
+- Máquinas virtuales y emuladores **NO ESTÁN PERMITIDOS**.
+- Contador de zombis **NO ESTÁ PERMITIDO**.
+- Modo Teatro **NO ESTÁ PERMITIDO**.
+
+**Reglas Generales de First Room:**
+
+- Corregir la velocidad al retroceder **NO ESTÁ PERMITIDO**.
+- Fast Ray **NO ESTÁ PERMITIDO**.
+- Comprar la Ray Gun de la pared **NO ESTÁ PERMITIDO** con la excepción de Buried.
+- Manipulación del RNG (la suerte) **NO ESTÁ PERMITIDA**.
+- Usar la LSAT **NO ESTÁ PERMITIDO**.
+- Usar la turbina **NO ESTÁ PERMITIDO**.
+
+---
+
+# MODERN WARFARE 3
+
+**General:**
+
+**Supervivencia:**
+
+- Obtener invisibilidad para todos los enemigos **ESTÁ PERMITIDO** siempre y cuando el área normalmente alcanzable no use la torreta sentinela como hitbox, y te no estés fuera del mapa.
+
+---
+
+# BLACK OPS
+
+**Reglas Generales**:
+
+**A partir del 28 de Junio de 2024, TODAS los envíos de Black Ops 1 (PC) deberán mostrar lo siguiente:**
+
+- El juego mismo debe ser iniciado desde el archivo ejecutable del juego (ya sea BlackOps.exe o BGamerT5.exe).
+- Por favor, asegúrate que todos los archivos OCULTOS sean visibles. Mostrar el contenido de tu carpeta zone también es recomendado.
+- Usar accesos directos o Steam para iniciar el juego **NO ESTÁ PERMITIDO**.
+
+_**Las siguientes reglas fueron establecidas el 30 de Enero del 2023. Resultados pueden verse [aquí](https://docs.google.com/spreadsheets/d/1oGHh7-l_yBEa4S53mND5MDqDZ6eqX6jIqfPBmNs_8gU/edit#gid=217361286).**_
+
+**DISCLAIMER**: Todas las partidas cooperativas **DEBEN** transmitir en vivo sus descansos para demostrar que sus FPS no fueron alterados. Alterar los FPS causará el reinicio sea más lento, por lo tanto, **NO ESTÁ PERMITIDO**. Preferiríamos que se proporcionaran todos los puntos de vista, sin embargo, como mínimo, requeriremos el **PUNTO DE VISTA DEL HOST**.
+
+_**Permitido**_:
+
+- Se **REQUIERE** audio para la configuración como mínimo a partir del 12 de Enero de 2023.
+- Contadores automáticos (contadores integrados) **ESTÁN PERMITIDOS**.
+- Contadores automáticos para las trampas **ESTÁN PERMITIDOS** usando Tim.
+- BGamer **ESTÁ PERMITIDO**.
+- Vincular una tecla del teclado a botones de mando para comprar caja más rápido **ESTÁ PERMITIDO**.
+- Cambiar el FOV **ESTÁ PERMITIDO**.
+- Cambiar los FPS **ESTÁN PERMITIDOS** (hasta 250 FPS).
+- Asignar teclas para Fast Restart, Resoluciones personalizadas **ESTÁN PERMITIDOS**.
+- Corregir la velocidad al retroceder **ESTÁ PERMITIDO** al abrir Dead Ops Arcade.
+- Corregir la velocidad al retroceder en cooperativo **ESTÁ PERMITIDO** usando **TIM** y **Config Binds**.
+- Liquidaciones gratis en "Five" **ESTÁN PERMITIDOS**.
+- Cambios al HUD que no afecten a la partida **ESTÁN PERMITIDOS**.
+- Inmunidad a los rayos de George en Call of the Dead **ESTÁ PERMITIDO**.
+- Cooperativo en pantalla dividida **ESTÁ PERMITIDO**.
+- Camuflajes y texturas personalizadas **ESTÁN PERMITIDOS**.
+- Desactivar contenido gráfico **ESTÁ PERMITIDO**.
+- Exploit para acuchillar rápido **ESTÁ PERMITIDO**.
+- Silenciar líneas de voz **ESTÁ PERMITIDO**.
+- Glitches Out of Bounds para descansos **ESTÁN PERMITIDOS** en cooperativo.
+- Cancelar la animación de Perks **SOLO ESTÁ PERMITIDO** si por lo menos se muestra UNA animación de Perk completa.
+- Contador de reinicios **ESTÁ PERMITIDO**.
+- TIM y MUT **ESTÁN PERMITIDOS**.
+- Contador de tiradas de caja **ESTÁ PERMITIDO**.
+
+_**NO Permitido**_:
+
+- Todas las vinculaciones menos las especificadas (ej, FPS, FOV, etc) **NO ESTÁN PERMITIDOS**.
+- Sobrepasar la congelación/error del día 25 **NO ESTÁ PERMITIDO**.
+- Cancelar spawns incluyendo spawns de techo **NO ESTÁ PERMITIDO**.
+- Cambiar FPS para descansos en cooperativo **NO ESTÁ PERMITIDO**.
+- Cheat engine **NO ESTÁ PERMITIDO**.
+- Parches .ff personalizados **NO ESTÁN PERMITIDOS**.
+- Contador personalizado de cuerpos **NO ESTÁ PERMITIDO**.
+- Desactivar trapo de muñeca (ragdoll) **NO ESTÁ PERMITIDO**.
+- Contador de perros **NO ESTÁ PERMITIDO**.
+- Duplicar armas **NO ESTÁ PERMITIDO**.
+- Fast Ray **NO ESTÁ PERMITIDO**.
+- Foliage, remover efectos de humo, y texturas transparentes **NO ESTÁN PERMITIDOS**.
+- Brillo al máximo **NO ESTÁ PERMITIDO**.
+- Glitchear el spawn de novas en Kino Der Toten **NO ESTÁ PERMITIDO**.
+- Modo Dios y No Clip **NO ESTÁN PERMITIDOS** (esto incluye descansos en cooperativo).
+- Barra de vida **NO ESTÁ PERMITIDO**.
+- Incrementar la duración del ícono de daño **NO ESTÁ PERMITIDO**.
+- Parches de contadores dentro del juego **NO ESTÁN PERMITIDOS** (con la excepción de Speedruns de canciones).
+- Múltiples actiones vinculadas a la misma tecla/botón (macros) **NO ESTÁN PERMITIDAS**.
+- Quitar la niebla **NO ESTÁ PERMITIDO**.
+- Plutonium **NO ESTÁ PERMITIDO** (a excepción de Speedruns de Easter Egg y Desafíos de la Comunidad).
+- Saltar rondas **NO ESTÁ PERMITIDO**.
+- El uso de filmtweaks (modificaciones visuales) en Ascension **NO ESTÁ PERMITIDO** debido a cambios significativos a la visión.
+- Usar comandos de consola para activar Mule Kick mientras se juega offline **NO ESTÁ PERMITIDO**.
+- Máquinas virtuales y emuladores **NO ESTÁN PERMITIDOS**.
+- Zolfernos y otros entrenadores **NO ESTÁN PERMITIDOS**.
+- Contador de zombis **NO ESTÁ PERMITIDO**.
+
+**Reglas Especificas de Mapa:**
+
+_**Moon:**_
+
+- Glitchear al Astronauta en el biodomo **NO ESTÁ PERMITIDO**.
+- **NO ESTÁ PERMITIDO** acortar las rondas hasta 24 zombis por ronda usando el teletransportador.
+
+---
+
+# WORLD AT WAR
+
+**Reglas Generales**:
+
+_**Las siguientes reglas fueron establecidas el 19 de Mayo de 2023. Resultados pueden verse [aquí](https://docs.google.com/spreadsheets/d/16YVGO6WnuN8C748aaJ26cAn_f9zdnPyXtqQlR9f1_ck/edit#gid=0).**_
+
+_**Permitido**_:
+
+- Contadores automáticos **ESTÁN PERMITIDOS**.
+- Camuflajes y texturas **ESTÁN PERMITIDOS**.
+- Cooperativo en pantalla dividida **ESTÁ PERMITIDO**.
+- Desconectarse y reconectarse en cooperativo **ESTÁ PERMITIDO**.
+- Exploit para acuchillar rápido **ESTÁ PERMITIDO**.
+- Corregir la velocidad al retroceder **ESTÁ PERMITIDO** (con la excepción de First Rooms).
+- Cambiar el FOV **ESTÁ PERMITIDO** (hasta 120 de FOV).
+- Cambiar los FPS **ESTÁN PERMITIDOS** (hasta 250 FPS).
+- Remover el aturdimiento al recibir daño propio con granadas **ESTÁ PERMITIDO**.
+- Cancelar la animación de Perks **SOLO ESTÁ PERMITIDO** si por lo menos se muestra UNA animación de Perk completa.
+- Los jugadores **DEBEN** mostrar su pantalla de reinicio si la alcanzan.
+- Plutonium **ESTÁ PERMITIDO**.
+- Cooperativo en solitario **ESTÁ PERMITIDO**.
+
+_**NO Permitido**_:
+
+- Contador automático de las trampas **NO ESTÁ PERMITIDO**.
+- Sobrepasar la congelación/error del día 25 **NO ESTÁ PERMITIDO**.
+- Cambiar la configuración **NO ESTÁ PERMITIDO** excepto para FOV, FPS, tecla Fast Restart, nombre de Host y cambios gráficos HUG.
+- Cuerpos personalizados **NO ESTÁ PERMITIDO**.
+- Duplicar armas **NO ESTÁ PERMITIDO**.
+- Fast Ray **NO ESTÁ PERMITIDO**.
+- Quitar la niebla **NO ESTÁ PERMITIDO**.
+- **NO SE PERMITEN** parches con la excepción de corregir la velocidad al retroceder y parches de contadores.
+- Lanzallamas pre-parche **NO ESTÁ PERMITIDO**.
+- Remover el foliage, efectos de humo y llamas **NO ESTÁ PERMITIDO** con la expepción de remover el foliage usando granadas.
+- Texturas transparentes y de alta visibilidad (ej, zombis rosa) **NO ESTÁN PERMITIDAS**.
+- Máquinas virtuales y emuladores **NO ESTÁN PERMITIDOS**.
+- Contador de zombis **NO ESTÁ PERMITIDO**.
+- Abandonar y volver después de caerse para desactivar "spawns fantasma" **NO ESTÁ PERMITIDO**.
+
+---
+
+# MAPAS CUSTOM/ TABLAS DE CLASIFICACIÓN DE LA COMUNIDAD
+
+**General:**
+
+- El requerimiento de mostrar archivos para los envíos de Black Ops 1 no aplica para tablas de la comunidad, pero sí para envíos custom.
+- Para mapas custom de Black Ops 3, se aplican las mismas reglas de parche que para el juego original.
+
+---
+
+# MOD ULTIMATE EXPERIENCE
+
+- Ajustes UEM deben ser mostrados antes o después de cada partida para asegurar que cumplen con nuestras reglas.
+- Los chicles Locksmith y Lucky Loadout no están permitidos para categorías de Speedrun.
+
+Ajustes/Opciones alternables:
+
+- Para categorías basadas en rondas, la dificultad puede ser aumentada desde predeterminada pero no puede ser establecida en "Baby Mode".
+- Brutal Ranks pueden ser usados solo en categorías basadas en rondas.
+- Solo para categorías basadas en rondas, el rage inducer puede ser activado.
+- Para todas las categorías, el sistema de chicles, el Despliegue de Estación, y Mapas de Armas pueden ser activados y desactivados.
+- El límite de zombis puede ser ajustado para lo que quieras.
