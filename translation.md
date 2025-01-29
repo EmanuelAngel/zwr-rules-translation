@@ -1,4 +1,4 @@
-v 0.2.1
+v 0.2.2
 
 # Reglas
 
@@ -199,7 +199,7 @@ _Método de cronometraje_
 - Los speedruns empiezan cuando la Ronda 1 aparece en la pantalla.
 - La única cosa permitida que se puede inyectar en BO4 es **FAST RESTART**. Cualquier otra cosa **NO ESTÁ PERMITIDA**.
 - Project-BO4 **ESTÁ PERMITIDO excepto para envíos de Easter Egg**.
-- Pantalla-Dividida **ESTÁ PERMITIDA**.
+- Pantalla dividida **ESTÁ PERMITIDA**.
 - Cubrir información del HUD tales como vida, puntos, o directamente debajo del contador de la ronda (donde se ven los mensajes de Jugador Conectado), **NO ESTÁ PERMITIDO**.
 
 _**Permitido**_:
@@ -212,10 +212,11 @@ _**No Permitido**_:
 
 - Duplicar armas **NO ESTÁ PERMITIDO**.
 - Caerse intencionalmente y ser revivido por el Cetro de Ra o Ragnarok con la bebida Bandolier Bandit para generar munición **NO ESTÁ PERMITIDO**.
+- Caerse intencionalmente y revivir al jugador permanentemente para cargar especialista **NO ESTÁ PERMITIDO**.
 - Jugar en Mutaciones Personalizadas **NO ESTÁ PERMITIDO**.
 - Jugar con bots **NO ESTÁ PERMITIDO**.
 - Exploit del escudo **NO ESTÁ PERMITIDO en dificultad normal**.
-  - Usar repetidamente las explosiones de escudo de Victorious Tortoise (intencionalmente) para matar ordas enteras de zombis **NO ESTÁ PERMITIDO**.
+  - Usar repetidamente las explosiones de escudo de Victorious Tortoise (intencionalmente) para matar hordas enteras de zombis **NO ESTÁ PERMITIDO**.
   - Campear al lado de la mesa del escudo con Victorious Tortoise **NO ESTÁ PERMITIDO**.
 - Usar puertas gratis a través de todos los speedruns **NO ESTÁ PERMITIDO**.
 - Usar Electric Burst en la máquina de bebidas Odin/Tónica en combinación con el cuchillo balístico **NO ESTÁ PERMITIDO**, exceptuando para speedruns.
@@ -235,8 +236,8 @@ _**No Permitido**_:
 - Abusar de armas cuerpo a cuerpo insta-kill (por ejemplo bloquear una tecla cuerpo a cuerpo e irse AFK por horas) **NO ESTÁ PERMITIDO**.
 - Cualquier partida del mapa "Prólogo" **NO ESTÁN PERMITIDAS** en las tablas de clasificación de "Groesten Haus" y vice versa.
 - Cuerpo a cuerpo rápido **NO ESTÁ PERMITIDO**.
-- Bajar Las Anclas en The Shadowed Throne a través de los medios de un glitch Out-of-Bounds **NO ESTÁ PERMITIDO**.
-- Jugadores que se caen intencionalmente a si mismos para crear una barrera que detenga zombis de entrar ciertas areas accesibles del mapa **NO ESTÁ PERMITIDO**.
+- Bajar Las Anclas en The Shadowed Throne por medio de un glitch Out-of-Bounds **NO ESTÁ PERMITIDO**.
+- **NO ESTÁ PERMITIDO** que los jugadoresse dejen caer intencionalmente a si mismos para crear una barrera que detenga zombis de entrar ciertas areas accesibles del mapa.
 - Jugar una partida cooperativa de 2 jugadores por ti mismo **NO ESTÁ PERMITIDO**.
 
 ---
@@ -247,6 +248,7 @@ _**No Permitido**_:
 
 - Bloquear spawns con Minas Trampa, C4, o estando encima de estos, **ESTÁ PERMITIDO** siempre y cuando un mínimo de 2 spawns naturales estén activos en todo momento.
 - Cada partida/envío sólo es aceptado en 1 categoría (Fate Cards o Fate & Fortune Cards).
+- La Fate Card "Irish Luck" es considerada una Fortune Card y **NO ESTÁ PERMITIDA** para la categoría "Fate Cards".
 - El glitch para usar infinitamente Cartas **NO ESTÁ PERMITIDO**.
   - Hay una excepción en Attack of the Radioactive Thing (Logrado por completar el Easter Egg principal o el Easter Egg Skull Hop) **ESTÁ PERMITIDA**.
 - El cliente IW7 **NO ESTÁ PERMITIDO**.
@@ -289,7 +291,7 @@ _**Permitido**_:
 
 _**NO PERMITIDO**_:
 
-- Cualquier otro mod que no esté listado debajo **NO ESTÁN PERMITIDOS**.
+- Cualquier otro mod que no esté listado debajo **NO ESTÁN PERMITIDO**.
 - Cancelar spawns (incluyendo spawns de techo) **NO ESTÁ PERMITIDO - con la excepción de cooperativos.**
 - Contador de cuerpos personalizado **NO ESTÁ PERMITIDO**.
 - Duplicar armas **NO ESTÁ PERMITIDO - con la excepción de intentos de Easter Egg.**
