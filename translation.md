@@ -1,4 +1,4 @@
-v 0.3.0
+v 0.3.1
 
 # Reglas
 
@@ -369,7 +369,7 @@ _**Permitido**_:
 - Contadores automáticos de equipamiento **ESTÁN PERMITIDOS** (ej. Turbinas, Trampolín, etc).
 - El banco **ESTÁ PERMITIDO** (con la excepción de tablas especificas de Speedruns de Easter Egg).
 - Cambiar el FOV **ESTÁ PERMITIDO** (hasta 120 de FOV).
-- Cambiar los FPS **ESTÁN PERMITIDOS** (Cualquier FPS permitidos EXCEPTUANDO UN MÁXIMO DE 250 EN SPEEDRUNS DE EASTER EGG).
+- Cambiar los FPS **ESTÁ PERMITIDO** (Cualquier valor de FPS está permitido EXCEPTUANDO UN MÁXIMO DE 250 EN SPEEDRUNS DE EASTER EGG).
 - Pantalla dividida **ESTÁ PERMITIDO**.
 - Parche de primer caja **ESTÁ PERMITIDO SOLO para SPEEDRUNS DE RONDAS**.
 - Corregir la velocidad al retroceder **ESTÁ PERMITIDO** (Con la excepción de First Rooms - votado por la comunidad).
@@ -390,9 +390,9 @@ _**NO Permitido**_:
 - Fast Ray **NO ESTÁ PERMITIDO**.
 - Modo Dios para descansos **NO ESTÁ PERMITIDO**.
 - Barra de vida **NO ESTÁ PERMITIDO**.
-- Camuflajes con contraste alto (ejemplo: blanco, verde, rosa, púrpura, zombis que permitan una mejor visibilidad) **NO ESTÁ PERMITIDO**.
+- Camuflajes con contraste alto (ejemplo: blanco, verde, rosa, púrpura, zombis que permitan una mejor visibilidad) **NO ESTÁN PERMITIDOS**.
 - Quitar la niebla **NO ESTÁ PERMITIDO**.
-- Los jugadores **NO ESTÁN PERMITIDOS** manipular las siguientes desconexiones y reconexiones en cooperativo:
+- Los jugadores **NO TIENEN PERMITIDO** manipular las siguientes desconexiones y reconexiones en cooperativo:
   - **NO ESTÁ PERMITIDO** obtener de nuevo perma-perks después de la ronda 15 (ya que se tendrá perma-jugger permanentemente a pesar de caerse).
   - **NO ESTÁ PERMITIDO** cambiar el arma del refrigerador U obtener más munición cada ronda después de desconectarse.
   - **NO ESTÁ PERMITIDO** desconectarse para cambiar cómo se ejecuta el juego, ej, removiendo el elevador de Quick Revive permanentemente, desactivando Quick Revive en Die Rise, o recuperando el Acid Gat para requerir menos entidades. Esto se consigue haciendo que el jugador azul abandone durante ciertos pasos del juego para hacer que el juego emule una partida en solitario.
@@ -427,7 +427,7 @@ _**NO Permitido**_:
 
 **Reglas Generales**:
 
-**A partir del 28 de Junio de 2024, TODAS los envíos de Black Ops 1 (PC) deberán mostrar lo siguiente:**
+**A partir del 28 de Junio de 2024, TODOS los envíos de Black Ops 1 (PC) deberán mostrar lo siguiente:**
 
 - El juego mismo debe ser iniciado desde el archivo ejecutable del juego (ya sea BlackOps.exe o BGamerT5.exe).
 - Por favor, asegúrate que todos los archivos OCULTOS sean visibles. Mostrar el contenido de tu carpeta zone también es recomendado.
@@ -445,8 +445,8 @@ _**Permitido**_:
 - BGamer **ESTÁ PERMITIDO**.
 - Vincular una tecla del teclado a botones de mando para comprar caja más rápido **ESTÁ PERMITIDO**.
 - Cambiar el FOV **ESTÁ PERMITIDO**.
-- Cambiar los FPS **ESTÁN PERMITIDOS** (hasta 250 FPS).
-- Asignar teclas para Fast Restart, Resoluciones personalizadas **ESTÁN PERMITIDOS**.
+- Cambiar los FPS **ESTÁ PERMITIDO** (hasta 250 FPS).
+- Asignar teclas para Fast Restart y Resoluciones personalizadas **ESTÁ PERMITIDO**.
 - Corregir la velocidad al retroceder **ESTÁ PERMITIDO** al abrir Dead Ops Arcade.
 - Corregir la velocidad al retroceder en cooperativo **ESTÁ PERMITIDO** usando **TIM** y **Config Binds**.
 - Liquidaciones gratis en "Five" **ESTÁN PERMITIDOS**.
@@ -465,7 +465,7 @@ _**Permitido**_:
 
 _**NO Permitido**_:
 
-- Todas las vinculaciones menos las especificadas (ej, FPS, FOV, etc) **NO ESTÁN PERMITIDOS**.
+- Todas las asignaciones de teclas menos las especificadas (ej, FPS, FOV, etc) **NO ESTÁN PERMITIDOS**.
 - Sobrepasar la congelación/error del día 25 **NO ESTÁ PERMITIDO**.
 - Cancelar spawns incluyendo spawns de techo **NO ESTÁ PERMITIDO**.
 - Cambiar FPS para descansos en cooperativo **NO ESTÁ PERMITIDO**.
@@ -480,7 +480,7 @@ _**NO Permitido**_:
 - Brillo al máximo **NO ESTÁ PERMITIDO**.
 - Glitchear el spawn de novas en Kino Der Toten **NO ESTÁ PERMITIDO**.
 - Modo Dios y No Clip **NO ESTÁN PERMITIDOS** (esto incluye descansos en cooperativo).
-- Barra de vida **NO ESTÁ PERMITIDO**.
+- Barra de vida **NO ESTÁ PERMITIDA**.
 - Incrementar la duración del ícono de daño **NO ESTÁ PERMITIDO**.
 - Parches de contadores dentro del juego **NO ESTÁN PERMITIDOS** (con la excepción de Speedruns de canciones).
 - Múltiples actiones vinculadas a la misma tecla/botón (macros) **NO ESTÁN PERMITIDAS**.
@@ -561,6 +561,6 @@ Ajustes/Opciones alternables:
 
 - Para categorías basadas en rondas, la dificultad puede ser aumentada desde predeterminada pero no puede ser establecida en "Baby Mode".
 - Brutal Ranks pueden ser usados solo en categorías basadas en rondas.
-- Solo para categorías basadas en rondas, el rage inducer puede ser activado.
+- El Rage Inducer SOLO PUEDE SER ACTIVADO para categorías basadas en rondas.
 - Para todas las categorías, el sistema de chicles, el Despliegue de Estación, y Mapas de Armas pueden ser activados y desactivados.
 - El límite de zombis puede ser ajustado para lo que quieras.
