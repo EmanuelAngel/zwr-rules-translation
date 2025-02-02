@@ -1,4 +1,4 @@
-v 0.3.1
+v 0.3.2
 
 # Reglas
 
@@ -351,6 +351,8 @@ _**Origins**_:
 - Usar el cliente S1X para Advanced Warfare **ESTÁ PERMITIDO**.
 - Parche para la primer caja **ESTÁ PERMITIDO exceptuando para Speedruns de Easter Egg**.
 - Cubrir información del HUD tales como puntos, o la esquina SUPERIOR IZQUIERDA de la pantalla **NO ESTÁ PERMITIDO**.
+- Múltiples puntos de vista son REQUERIDOS para partidas cooperativas. [VOTADO POR LA COMUNDAD]
+- Los jugadores no pueden cubrir la consola dentro del juego. (SOLO PC)
 
 ---
 
@@ -406,6 +408,7 @@ _**NO Permitido**_:
 
 - Corregir la velocidad al retroceder **NO ESTÁ PERMITIDO**.
 - Fast Ray **NO ESTÁ PERMITIDO**.
+- Fast Nades **NO ESTÁ PERMITIDO**.
 - Comprar la Ray Gun de la pared **NO ESTÁ PERMITIDO** con la excepción de Buried.
 - Manipulación del RNG (la suerte) **NO ESTÁ PERMITIDA**.
 - Usar la LSAT **NO ESTÁ PERMITIDO**.
@@ -419,7 +422,7 @@ _**NO Permitido**_:
 
 **Supervivencia:**
 
-- Obtener invisibilidad para todos los enemigos **ESTÁ PERMITIDO** siempre y cuando el área normalmente alcanzable no use la torreta sentinela como hitbox, y te no estés fuera del mapa.
+- Obtener invisibilidad para todos los enemigos **ESTÁ PERMITIDO** siempre y cuando el área normalmente alcanzable no use la torreta sentinela como hitbox, y no estés fuera del mapa.
 
 ---
 
@@ -563,4 +566,4 @@ Ajustes/Opciones alternables:
 - Brutal Ranks pueden ser usados solo en categorías basadas en rondas.
 - El Rage Inducer SOLO PUEDE SER ACTIVADO para categorías basadas en rondas.
 - Para todas las categorías, el sistema de chicles, el Despliegue de Estación, y Mapas de Armas pueden ser activados y desactivados.
-- El límite de zombis puede ser ajustado para lo que quieras.
+- El límite de zombis puede ser ajustado hasta donde quieras.
